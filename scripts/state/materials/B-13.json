@@ -1,0 +1,15 @@
+{
+ "status": "verified",
+ "set": "books",
+ "title": "An Introduction to Statistical Learning with Applications in R (2nd edition)",
+ "files": [
+  {
+   "path": "06_analytics_statistics/books/JamesWittenHastieTibshirani_ISLR_2e_en.pdf",
+   "url": "https://www.stat.cmu.edu/~brian/valerie/617-2022/0%20-%20books/ISLRv2_website.pdf",
+   "pages": 612,
+   "sha256": "fc774f6c03fe525539d3ec1e2054482c29fc2fc2c6106b1b7cd6c3cc27e71e72",
+   "bytes": 21322662
+  }
+ ],
+ "note": "HTTP 200；%PDF；pypdf 可解析 612 页；名称短语已见"
+}

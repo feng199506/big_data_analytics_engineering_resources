@@ -1,0 +1,15 @@
+{
+ "status": "verified",
+ "set": "books",
+ "title": "Designing Event-Driven Systems: Concepts and Patterns for Streaming Services with Apache Kafka",
+ "files": [
+  {
+   "path": "04_stream_processing/books/Stopford_DesigningEventDrivenSystems_en.pdf",
+   "url": "https://benstopford.com/uploads/Designing-Event-Driven-Systems.pdf",
+   "pages": 166,
+   "sha256": "ddb86efc5c992ca51bc08c1c7c82e076161603de44eddc3e36068fbc79258657",
+   "bytes": 5294148
+  }
+ ],
+ "note": "HTTP 200；%PDF；pypdf 可解析 166 页；名称短语已见"
+}

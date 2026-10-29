@@ -1,0 +1,15 @@
+{
+ "status": "verified",
+ "set": "books",
+ "title": "Foundations of Databases",
+ "files": [
+  {
+   "path": "01_foundations/books/AbiteboulHullVianu_FoundationsOfDatabases_en.pdf",
+   "url": "http://webdam.inria.fr/Alice/pdfs/all.pdf",
+   "pages": 678,
+   "sha256": "5d633e4514799a123616c565beeaa498d9900f615969273b320a969fb0c336a0",
+   "bytes": 3112558
+  }
+ ],
+ "note": "HTTP 200；%PDF；pypdf 可解析 678 页；名称短语已见"
+}

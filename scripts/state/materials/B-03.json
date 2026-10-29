@@ -1,0 +1,15 @@
+{
+ "status": "verified",
+ "set": "books",
+ "title": "Foundations of Data Science",
+ "files": [
+  {
+   "path": "06_analytics_statistics/books/BlumHopcroftKannan_FoundationsOfDataScience_en.pdf",
+   "url": "https://www.cs.cornell.edu/jeh/book.pdf",
+   "pages": 479,
+   "sha256": "7412c43877d8f460ba73739e0e5da8d5a3d8b0262475d10bb4897fe569b449f8",
+   "bytes": 2493724
+  }
+ ],
+ "note": "HTTP 200；%PDF；pypdf 可解析 479 页；名称短语已见"
+}

@@ -1,0 +1,15 @@
+{
+ "status": "verified",
+ "set": "books",
+ "title": "Mining of Massive Datasets (3rd edition)",
+ "files": [
+  {
+   "path": "03_batch_processing/books/LeskovecRajaramanUllman_MiningOfMassiveDatasets_3e_en.pdf",
+   "url": "https://web.archive.org/web/20251202112455/http://infolab.stanford.edu/~ullman/mmds/book0n.pdf",
+   "pages": 603,
+   "sha256": "4b2198f82e16f84a494e36d17c7a82249cad72ffbd7a7869a4796e995f5ecf7e",
+   "bytes": 3575952
+  }
+ ],
+ "note": "HTTP 200；%PDF；pypdf 可解析 603 页；名称短语已见"
+}

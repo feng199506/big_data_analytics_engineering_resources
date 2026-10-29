@@ -1,0 +1,15 @@
+{
+ "status": "verified",
+ "set": "books",
+ "title": "PostgreSQL 14 Internals",
+ "files": [
+  {
+   "path": "02_data_modeling_storage/books/Rogov_PostgreSQL14Internals_en.pdf",
+   "url": "https://edu.postgrespro.com/postgresql_internals-14_en.pdf",
+   "pages": 548,
+   "sha256": "0868e53b6fdca5352e725e453e3f58ce2114246a19239931de1615f60f418f51",
+   "bytes": 6653013
+  }
+ ],
+ "note": "HTTP 200；%PDF；pypdf 可解析 548 页；名称短语已见"
+}

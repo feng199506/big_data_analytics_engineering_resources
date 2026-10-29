@@ -1,0 +1,15 @@
+{
+ "status": "verified",
+ "set": "books",
+ "title": "Kafka: The Definitive Guide (Confluent complimentary complete PDF)",
+ "files": [
+  {
+   "path": "04_stream_processing/books/NarkhedeShapiraPalino_KafkaTheDefinitiveGuide_en.pdf",
+   "url": "https://www.confluent.io/wp-content/uploads/confluent-kafka-definitive-guide-complete.pdf",
+   "pages": 322,
+   "sha256": "f7c8d78bd20d74b292538b6b565a136e0860514e6df65070f412487507db6bd3",
+   "bytes": 6531776
+  }
+ ],
+ "note": "HTTP 200；%PDF；pypdf 可解析 322 页；名称短语已见"
+}

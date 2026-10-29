@@ -1,0 +1,15 @@
+{
+ "status": "verified",
+ "set": "books",
+ "title": "Data-Intensive Text Processing with MapReduce",
+ "files": [
+  {
+   "path": "03_batch_processing/books/LinDyer_DataIntensiveTextProcessingWithMapReduce_en.pdf",
+   "url": "https://lintool.github.io/MapReduceAlgorithms/MapReduce-book-final.pdf",
+   "pages": 175,
+   "sha256": "405bf2a11399bfcff66f83e2cb81252f2fc0c352f45d653a764370df4d321d7a",
+   "bytes": 1788987
+  }
+ ],
+ "note": "HTTP 200；%PDF；pypdf 可解析 175 页；名称短语已见"
+}
