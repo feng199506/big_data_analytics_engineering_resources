@@ -1,0 +1,142 @@
+{
+ "url:https://www.cidrdb.org/cidr2023/papers/p75-chattopadhyay.pdf": {
+  "status": "fail",
+  "pdf": "https://www.cidrdb.org/cidr2023/papers/p75-chattopadhyay.pdf",
+  "source": "new",
+  "note": "下载失败：HTTP 404 "
+ },
+ "url:https://www.vldb.org/pvldb/vol13/p3461-melnik.pdf": {
+  "status": "dup_elsewhere",
+  "note": "已由 02 群收录，本群不重复计数"
+ },
+ "url:https://www.vldb.org/pvldb/vol12/p2022-chattopadhyay.pdf": {
+  "status": "ok",
+  "pdf": "https://www.vldb.org/pvldb/vol12/p2022-chattopadhyay.pdf",
+  "source": "new",
+  "note": "通过：HTTP 200；%PDF 头；pypdf 可解析 13 页、72629 字符；标题匹配 1.00；第一作者姓氏已见；参考文献节已见",
+  "pages": 13,
+  "chars": 72629,
+  "sha256": "0c32369959d97e3013adba127d312d87a3a27a910d7f5e92a38b567396715a89",
+  "bytes": 640780,
+  "title_match": 1.0,
+  "author_found": true,
+  "refs": true,
+  "path": "10_practical_applications/papers/2019_Chattopadhyay_Procella_en.pdf"
+ },
+ "url:https://assets.amazon.science/76/32/53c71f7343d8b731f0f3dcd186c9/amazon-redshift-re-invented.pdf": {
+  "status": "fail",
+  "pdf": "https://assets.amazon.science/76/32/53c71f7343d8b731f0f3dcd186c9/amazon-redshift-re-invented.pdf",
+  "source": "new",
+  "note": "下载失败：HTTP 404 "
+ },
+ "url:https://dl.acm.org/doi/pdf/10.1145/2882903.2903741": {
+  "status": "fail",
+  "pdf": "https://dl.acm.org/doi/pdf/10.1145/2882903.2903741",
+  "source": "new",
+  "note": "下载失败：HTTP 403 "
+ },
+ "url:https://static.druid.io/docs/druid.pdf": {
+  "status": "fail",
+  "pdf": "https://static.druid.io/docs/druid.pdf",
+  "source": "new",
+  "note": "下载失败：HTTP None b\"URLError(ConnectionResetError(104, 'Connection reset by peer'))\""
+ },
+ "url:https://www.vldb.org/pvldb/vol2/vldb09-938.pdf": {
+  "status": "ok",
+  "pdf": "https://www.vldb.org/pvldb/vol2/vldb09-938.pdf",
+  "source": "new",
+  "note": "通过：HTTP 200；%PDF 头；pypdf 可解析 4 页、18801 字符；标题匹配 1.00；第一作者姓氏已见；参考文献节已见",
+  "pages": 4,
+  "chars": 18801,
+  "sha256": "e0404282b85bc6e00c5c7a580a56b243c033561f68c0d5204d12c752ed2fc218",
+  "bytes": 256451,
+  "title_match": 1.0,
+  "author_found": true,
+  "refs": true,
+  "path": "10_practical_applications/papers/2009_Thusoo_Hive_en.pdf"
+ },
+ "url:https://15721.courses.cs.cmu.edu/spring2024/papers/22-redshift/redshift-sigmod2022.pdf": {
+  "status": "ok",
+  "pdf": "https://15721.courses.cs.cmu.edu/spring2024/papers/22-redshift/redshift-sigmod2022.pdf",
+  "source": "new",
+  "note": "人工核对通过：PDF 首页为 Nikos Armenatzoglou 等《Amazon Redshift Re-invented》SIGMOD 2022 工业轨，种子第一作者已按正文更正；自动检查：标题词匹配 1.00；第一作者姓氏未见",
+  "pages": 13,
+  "chars": 77941,
+  "sha256": "244b83200c13fa05f9b0f31f3469b74ccb80a0df9769b4de6225a7204b9ba6ac",
+  "bytes": 1388968,
+  "title_match": 1.0,
+  "author_found": false,
+  "refs": true,
+  "path": "10_practical_applications/papers/2022_Bhagat_AmazonRedshiftReInvented_en.pdf"
+ },
+ "url:https://15721.courses.cs.cmu.edu/spring2024/papers/19-snowflake/p215-dageville-snowflake.pdf": {
+  "status": "ok",
+  "pdf": "https://15721.courses.cs.cmu.edu/spring2024/papers/19-snowflake/p215-dageville-snowflake.pdf",
+  "source": "new",
+  "note": "通过：HTTP 200；%PDF 头；pypdf 可解析 12 页、74347 字符；标题匹配 1.00；第一作者姓氏已见；参考文献节已见",
+  "pages": 12,
+  "chars": 74347,
+  "sha256": "b635081104c3647561a476ab5947f5782b2a5c4be5af43b48cea90dba1b9e332",
+  "bytes": 909023,
+  "title_match": 1.0,
+  "author_found": true,
+  "refs": true,
+  "path": "10_practical_applications/papers/2016_Dageville_SnowflakeElasticDataWarehouse_en.pdf"
+ },
+ "url:https://raw.githubusercontent.com/apache/druid/master/publications/whitepaper/druid.pdf": {
+  "status": "ok",
+  "pdf": "https://raw.githubusercontent.com/apache/druid/master/publications/whitepaper/druid.pdf",
+  "source": "new",
+  "note": "通过：HTTP 200；%PDF 头；pypdf 可解析 12 页、64185 字符；标题匹配 1.00；第一作者姓氏已见；参考文献节已见",
+  "pages": 12,
+  "chars": 64185,
+  "sha256": "0268aa11623e8e884435b87385fd4d6bf2d36dd00b749e073ab9014ab9addd51",
+  "bytes": 682507,
+  "title_match": 1.0,
+  "author_found": true,
+  "refs": true,
+  "path": "10_practical_applications/papers/2014_Yang_Druid_en.pdf"
+ },
+ "url:https://www.cidrdb.org/cidr2015/Papers/CIDR15_Paper28.pdf": {
+  "status": "ok",
+  "pdf": "https://www.cidrdb.org/cidr2015/Papers/CIDR15_Paper28.pdf",
+  "source": "new",
+  "note": "通过：HTTP 200；%PDF 头；pypdf 可解析 10 页、54875 字符；标题匹配 1.00；第一作者姓氏已见；参考文献节已见",
+  "pages": 10,
+  "chars": 54875,
+  "sha256": "2c77c4e0109320de87f7443d73fe3aba6e05b4b675c6751dc6fa534b8f054083",
+  "bytes": 1340286,
+  "title_match": 1.0,
+  "author_found": true,
+  "refs": true,
+  "path": "10_practical_applications/papers/2015_Kornacker_Impala_en.pdf"
+ },
+ "url:https://kowshik.github.io/JPregel/pregel_paper.pdf": {
+  "status": "ok",
+  "pdf": "https://kowshik.github.io/JPregel/pregel_paper.pdf",
+  "source": "new",
+  "note": "通过：HTTP 200；%PDF 头；pypdf 可解析 11 页、62938 字符；标题匹配 1.00；第一作者姓氏已见；参考文献节已见",
+  "pages": 11,
+  "chars": 62938,
+  "sha256": "fecb9886958d217ef5130026014aa7a58050415dead62572e0aab7940a779f0e",
+  "bytes": 485247,
+  "title_match": 1.0,
+  "author_found": true,
+  "refs": true,
+  "path": "10_practical_applications/papers/2010_Malewicz_Pregel_en.pdf"
+ },
+ "url:https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-gonzalez.pdf": {
+  "status": "ok",
+  "pdf": "https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-gonzalez.pdf",
+  "source": "new",
+  "note": "通过：HTTP 200；%PDF 头；pypdf 可解析 16 页、75272 字符；标题匹配 1.00；第一作者姓氏已见；参考文献节已见",
+  "pages": 16,
+  "chars": 75272,
+  "sha256": "e69f3f0e9acc5b097d4212d97c108585abc7652842080b93e63bcf8911511cc9",
+  "bytes": 576287,
+  "title_match": 1.0,
+  "author_found": true,
+  "refs": true,
+  "path": "10_practical_applications/papers/2014_Gonzalez_GraphX_en.pdf"
+ }
+}

@@ -1,0 +1,18 @@
+{
+ "status": "verified",
+ "set": "projects",
+ "title": "Feast feature store workshop",
+ "files": [
+  {
+   "path": "07_large_scale_machine_learning/projects/feast_workshop_en",
+   "url": "https://github.com/feast-dev/feast-workshop",
+   "commit": "b407d1cc25244907585e4feef6b574ba94531f57",
+   "files": 144,
+   "archive_sha256": "275b81b46122d9295dc661d3fd31d0664d0e1df1e356030e3fae945e457b2d10",
+   "bytes": 6930984
+  }
+ ],
+ "commit": "b407d1cc25244907585e4feef6b574ba94531f57",
+ "license_files": [],
+ "note": "官方仓库快照 commit b407d1cc2524：归档 zip 完整性通过，解压 144 个文件（9 个 notebook）；应有文件已见 ['README.md']；仓库根目录未见许可证文件；未发现 LFS 指针文件"
+}

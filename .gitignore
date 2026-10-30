@@ -1,0 +1,22 @@
+# 论文、教材、课程讲义、软件文档与参考项目全文只放 Release 附件，不进普通 Git
+*.pdf
+*.PDF
+*.zip
+*.tar
+*.tar.*
+*.tgz
+*.7z
+*.gz
+/[0-9][0-9]_*/
+# 离线导航网页只在 Release 包里有效
+/*.html
+/guides/*.html
+# 缓存、锁、日志、临时下载
+__pycache__/
+*.pyc
+*.lock
+*.log
+*.part
+*.tmp
+*.crdownload
+*.partial

@@ -1,0 +1,64 @@
+{
+ "url:https://www.bailis.org/papers/macrobase-sigmod2017.pdf": {
+  "status": "ok",
+  "pdf": "https://www.bailis.org/papers/macrobase-sigmod2017.pdf",
+  "source": "new",
+  "note": "通过：HTTP 200；%PDF 头；pypdf 可解析 16 页、113254 字符；标题匹配 1.00；第一作者姓氏已见；参考文献节已见",
+  "pages": 16,
+  "chars": 113254,
+  "sha256": "77079d01ad3eb8088ace6b5351dd3e8d40d18daca76d6dc59e7a5b56176cf868",
+  "bytes": 1108196,
+  "title_match": 1.0,
+  "author_found": true,
+  "refs": true,
+  "path": "06_analytics_statistics/papers/2017_Bailis_MacroBase_en.pdf"
+ },
+ "url:https://web.eecs.umich.edu/~mozafari/php/data/uploads/verdict_sigmod_2018.pdf": {
+  "status": "fail",
+  "pdf": "https://web.eecs.umich.edu/~mozafari/php/data/uploads/verdict_sigmod_2018.pdf",
+  "source": "new",
+  "note": "下载失败：HTTP None b\"URLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certifica\""
+ },
+ "url:https://www.cs.berkeley.edu/~sameerag/blinkdb_eurosys13.pdf": {
+  "status": "ok",
+  "pdf": "https://www.cs.berkeley.edu/~sameerag/blinkdb_eurosys13.pdf",
+  "source": "new",
+  "note": "通过：HTTP 200；%PDF 头；pypdf 可解析 14 页、89204 字符；标题匹配 1.00；第一作者姓氏已见；参考文献节已见",
+  "pages": 14,
+  "chars": 89204,
+  "sha256": "20eb283d1f93bb592e9e7aa453b54bb5e6bdc5b1b854865ba0ae2d9923911446",
+  "bytes": 956588,
+  "title_match": 1.0,
+  "author_found": true,
+  "refs": true,
+  "path": "06_analytics_statistics/papers/2013_Agarwal_BlinkDB_en.pdf"
+ },
+ "url:https://arxiv.org/pdf/1603.05346.pdf": {
+  "status": "ok",
+  "pdf": "https://arxiv.org/pdf/1603.05346.pdf",
+  "source": "new",
+  "note": "人工核对通过：PDF 实为 Karnin/Lang/Liberty《Optimal Quantile Approximation in Streams》(KLL sketch)，种子标题已按正文更正；自动检查：标题词匹配 0.57；第一作者姓氏已见",
+  "pages": 12,
+  "chars": 35536,
+  "sha256": "61f80573ed5484faf45e8296d558f6bfd8b0da237e7720b5c2f7a60e6861a09b",
+  "bytes": 538044,
+  "title_match": 0.57,
+  "author_found": true,
+  "refs": true,
+  "path": "06_analytics_statistics/papers/2019_Ting_DataSketchesDisaggregatedSubset_en.pdf"
+ },
+ "url:https://www.cidrdb.org/cidr2023/papers/p66-wolde.pdf": {
+  "status": "ok",
+  "pdf": "https://www.cidrdb.org/cidr2023/papers/p66-wolde.pdf",
+  "source": "new",
+  "note": "通过：HTTP 200；%PDF 头；pypdf 可解析 6 页、38112 字符；标题匹配 1.00；第一作者姓氏已见；参考文献节已见",
+  "pages": 6,
+  "chars": 38112,
+  "sha256": "301446161a23e479902ed9d7371202f28ec498feb8d8135fff5957bd6274e219",
+  "bytes": 809820,
+  "title_match": 1.0,
+  "author_found": true,
+  "refs": true,
+  "path": "06_analytics_statistics/papers/2023_Wolde_DuckPGQ_en.pdf"
+ }
+}

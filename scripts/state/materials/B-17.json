@@ -1,0 +1,15 @@
+{
+ "status": "verified",
+ "set": "books",
+ "title": "Computer Networks: A Systems Approach (online edition)",
+ "files": [
+  {
+   "path": "01_foundations/books/PetersonDavie_ComputerNetworksASystemsApproach_html_en",
+   "url": "https://book.systemsapproach.org/",
+   "html_pages": 78,
+   "files": 357,
+   "bytes": 37774337
+  }
+ ],
+ "note": "官方 HTML，78 个页面全部 HTTP 200 且正文 ≥ 800 字符（允许 1 个短页：目录/附录页）；wget 离线保存（页面资源、链接改写），共 357 个文件；页面清单 PAGES_en.txt"
+}

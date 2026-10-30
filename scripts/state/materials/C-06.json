@@ -1,0 +1,15 @@
+{
+ "status": "verified",
+ "set": "courses",
+ "title": "UC Berkeley CS 186 Introduction to Database Systems (Spring 2025)",
+ "files": [
+  {
+   "path": "01_foundations/courses/Berkeley_CS186_Spring2025_html_en",
+   "url": "https://cs186berkeley.net/sp25/",
+   "html_pages": 3,
+   "files": 12,
+   "bytes": 1561570
+  }
+ ],
+ "note": "官方 HTML，3 个页面全部 HTTP 200 且正文 ≥ 500 字符；wget 离线保存（页面资源、链接改写），共 12 个文件；页面清单 PAGES_en.txt"
+}

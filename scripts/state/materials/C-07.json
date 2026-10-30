@@ -1,0 +1,15 @@
+{
+ "status": "verified",
+ "set": "courses",
+ "title": "MIT 6.5830/6.5831 Database Systems course site",
+ "files": [
+  {
+   "path": "01_foundations/courses/MIT_65830_DatabaseSystems_html_en",
+   "url": "https://dsg.csail.mit.edu/6.5830/",
+   "html_pages": 1,
+   "files": 4,
+   "bytes": 8471
+  }
+ ],
+ "note": "官方 HTML，1 个页面全部 HTTP 200 且正文 ≥ 400 字符；wget 离线保存（页面资源、链接改写），共 4 个文件；页面清单 PAGES_en.txt"
+}

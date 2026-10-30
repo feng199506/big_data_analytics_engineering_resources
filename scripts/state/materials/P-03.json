@@ -1,0 +1,20 @@
+{
+ "status": "verified",
+ "set": "projects",
+ "title": "Apache Flink official training exercises",
+ "files": [
+  {
+   "path": "04_stream_processing/projects/flink_training_en",
+   "url": "https://github.com/apache/flink-training",
+   "commit": "dc81157f826649b6084d968689f623ce41a1b46c",
+   "files": 91,
+   "archive_sha256": "1dbee1bcd41105cffbe4f0f9a1604f41fd34f424fac2f45f35439c8c8251d938",
+   "bytes": 275389
+  }
+ ],
+ "commit": "dc81157f826649b6084d968689f623ce41a1b46c",
+ "license_files": [
+  "LICENSE"
+ ],
+ "note": "官方仓库快照 commit dc81157f8266：归档 zip 完整性通过，解压 91 个文件（0 个 notebook）；应有文件已见 ['README.md']；许可证文件 ['LICENSE']；未发现 LFS 指针文件"
+}

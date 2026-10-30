@@ -1,0 +1,15 @@
+{
+ "status": "verified",
+ "set": "software",
+ "title": "Apache Flink official documentation subset (time, state, checkpoint, backpressure)",
+ "files": [
+  {
+   "path": "04_stream_processing/software_docs/ApacheFlink__6527bb76",
+   "url": "https://nightlies.apache.org/flink/flink-docs-release-1.20/",
+   "html_pages": 7,
+   "files": 9,
+   "bytes": 756140
+  }
+ ],
+ "note": "官方 HTML，7 个页面全部 HTTP 200 且正文 ≥ 600 字符；wget 离线保存（页面资源、链接改写），共 9 个文件；页面清单 PAGES_en.txt"
+}

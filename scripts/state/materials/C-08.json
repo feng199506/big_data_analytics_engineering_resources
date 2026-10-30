@@ -1,0 +1,15 @@
+{
+ "status": "verified",
+ "set": "courses",
+ "title": "Stanford CS246 Mining Massive Datasets course site",
+ "files": [
+  {
+   "path": "06_analytics_statistics/courses/Stanford_CS246_MMDS_course_site_html_en",
+   "url": "https://web.stanford.edu/class/cs246/",
+   "html_pages": 2,
+   "files": 16,
+   "bytes": 10021974
+  }
+ ],
+ "note": "官方 HTML，2 个页面全部 HTTP 200 且正文 ≥ 400 字符；wget 离线保存（页面资源、链接改写），共 16 个文件；页面清单 PAGES_en.txt"
+}

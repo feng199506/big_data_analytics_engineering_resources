@@ -37,7 +37,7 @@ import zipfile
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from common_en import ROOT, SEEDS, STAGING, STATE, PYLIB, UA, http, load, save, norm  # noqa: E402
+from common_en import ROOT, SEEDS, STAGING, STATE, PYLIB, UA, http, load, save, norm, get_json  # noqa: E402
 
 sys.path.insert(0, str(PYLIB))
 import logging  # noqa: E402
@@ -309,17 +309,51 @@ def do_reuse(it, stage):
                     f"{info['pages']} 页" + ("；名称短语已见" if it.get("title_phrase") else "")}, "ok"
 
 
+def github_commit(path, ref):
+    """Resolve a public GitHub commit via the API when git ls-remote is blocked."""
+    if ref in ("HEAD", "", None):
+        meta, err = None, ""
+        st, body, _, _ = http(f"https://api.github.com/repos/{path}", accept="application/json", timeout=60)
+        if st != 200:
+            return None, f"GitHub API 仓库元数据 HTTP {st}"
+        try:
+            import json as _json
+            meta = _json.loads(body.decode("utf-8", "replace"))
+        except Exception as e:  # noqa: BLE001
+            return None, f"GitHub API JSON 无法解析：{repr(e)[:80]}"
+        ref = meta.get("default_branch") or "main"
+    st, body, _, _ = http(f"https://api.github.com/repos/{path}/commits/{urllib.parse.quote(ref)}",
+                          accept="application/json", timeout=60)
+    if st != 200:
+        return None, f"GitHub API commit HTTP {st}"
+    try:
+        import json as _json
+        data = _json.loads(body.decode("utf-8", "replace"))
+    except Exception as e:  # noqa: BLE001
+        return None, f"GitHub API commit JSON 无法解析：{repr(e)[:80]}"
+    sha = (data.get("sha") or "")[:40]
+    if len(sha) < 12:
+        return None, "GitHub API 未返回 commit sha"
+    return sha, "ok"
+
+
 def do_git(it, stage):
     repo = it["repo"].rstrip("/")
     ref = it.get("ref", "HEAD")
     r = subprocess.run(["git", "ls-remote", repo + ".git", ref], capture_output=True, text=True, timeout=120,
                        env={"GIT_TERMINAL_PROMPT": "0", "PATH": "/usr/bin:/bin"})
     line = (r.stdout.split("\n") or [""])[0].split()
-    if r.returncode or not line:
-        return None, f"git ls-remote 失败：{r.stderr.strip()[:100]}"
-    commit = line[0]
     host = urllib.parse.urlparse(repo).netloc
     path = urllib.parse.urlparse(repo).path.strip("/")
+    if r.returncode or not line:
+        if host == "github.com":
+            commit, note = github_commit(path, ref)
+            if not commit:
+                return None, f"git ls-remote 失败：{(r.stderr or '').strip()[:80]}；{note}"
+        else:
+            return None, f"git ls-remote 失败：{(r.stderr or '').strip()[:100]}"
+    else:
+        commit = line[0]
     if host == "github.com":
         url = f"https://codeload.github.com/{path}/zip/{commit}"
     elif "gitlab" in host:

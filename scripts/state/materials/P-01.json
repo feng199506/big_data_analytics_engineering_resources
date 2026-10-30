@@ -1,0 +1,18 @@
+{
+ "status": "verified",
+ "set": "projects",
+ "title": "dbt Jaffle Shop (ELT reference project)",
+ "files": [
+  {
+   "path": "05_ingestion_orchestration/projects/dbt_jaffle_shop_en",
+   "url": "https://github.com/dbt-labs/jaffle-shop",
+   "commit": "5beb145b00f5465ec759cfcdd9745e858818cf95",
+   "files": 58,
+   "archive_sha256": "c2a0c04b1f14e2f84d582c2dfa01daf36b78f8592a156933adb1b638608bfeeb",
+   "bytes": 7078675
+  }
+ ],
+ "commit": "5beb145b00f5465ec759cfcdd9745e858818cf95",
+ "license_files": [],
+ "note": "官方仓库快照 commit 5beb145b00f5：归档 zip 完整性通过，解压 58 个文件（0 个 notebook）；应有文件已见 ['README.md', 'models/']；仓库根目录未见许可证文件；未发现 LFS 指针文件"
+}

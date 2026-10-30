@@ -1,0 +1,98 @@
+{
+ "url:https://www.usenix.org/legacy/events/nsdi11/tech/full_papers/Hindman.pdf": {
+  "status": "ok",
+  "pdf": "https://www.usenix.org/legacy/events/nsdi11/tech/full_papers/Hindman.pdf",
+  "source": "new",
+  "note": "通过：HTTP 200；%PDF 头；pypdf 可解析 14 页、72036 字符；标题匹配 1.00；第一作者姓氏已见；参考文献节已见",
+  "pages": 14,
+  "chars": 72036,
+  "sha256": "35f52b9cab0b568fc8b734e6d8f2dd422eb2bec567d52421c9c7315f743e8327",
+  "bytes": 1109994,
+  "title_match": 1.0,
+  "author_found": true,
+  "refs": true,
+  "path": "09_systems_operations/papers/2011_Hindman_Mesos_en.pdf"
+ },
+ "url:https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/44843.pdf": {
+  "status": "ok",
+  "pdf": "https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/44843.pdf",
+  "source": "new",
+  "note": "通过：HTTP 200；%PDF 头；pypdf 可解析 24 页、38274 字符；标题匹配 1.00；第一作者姓氏已见；参考文献节已见",
+  "pages": 24,
+  "chars": 38274,
+  "sha256": "0679da43280d8c3903eb23b1516b92087c3168430ff2a65e70e0e426a86a5a4b",
+  "bytes": 379306,
+  "title_match": 1.0,
+  "author_found": true,
+  "refs": true,
+  "path": "09_systems_operations/papers/2016_Burns_BorgOmegaKubernetes_en.pdf"
+ },
+ "url:https://www.usenix.org/system/files/nsdi20-paper-vuppalapati.pdf": {
+  "status": "ok",
+  "pdf": "https://www.usenix.org/system/files/nsdi20-paper-vuppalapati.pdf",
+  "source": "new",
+  "note": "通过：HTTP 200；%PDF 头；pypdf 可解析 15 页、66075 字符；标题匹配 1.00；第一作者姓氏已见；参考文献节已见",
+  "pages": 15,
+  "chars": 66075,
+  "sha256": "68e64403dfe94fe3db1b974a8ebc06a6fb22c28bd1ed8f964b22af01e4826b95",
+  "bytes": 11091781,
+  "title_match": 1.0,
+  "author_found": true,
+  "refs": true,
+  "path": "09_systems_operations/papers/2020_Vuppalapati_BuildingElasticQueryEngine_en.pdf"
+ },
+ "url:https://www.vldb.org/pvldb/vol14/p2986-sankaranarayanan.pdf": {
+  "status": "ok",
+  "pdf": "https://www.vldb.org/pvldb/vol14/p2986-sankaranarayanan.pdf",
+  "source": "new",
+  "note": "通过：HTTP 200；%PDF 头；pypdf 可解析 13 页、67295 字符；标题匹配 1.00；第一作者姓氏已见；参考文献节已见",
+  "pages": 13,
+  "chars": 67295,
+  "sha256": "d13af9093017aa67f41f3d135a13751534df23aa982e195ddc878ed11a96b5ef",
+  "bytes": 2183926,
+  "title_match": 1.0,
+  "author_found": true,
+  "refs": true,
+  "path": "09_systems_operations/papers/2021_Agiwal_Napa_en.pdf"
+ },
+ "url:https://www.morganclaypool.com/doi/pdf/10.2200/S00874ED3V01Y201809CAC046": {
+  "status": "fail",
+  "pdf": "https://www.morganclaypool.com/doi/pdf/10.2200/S00874ED3V01Y201809CAC046",
+  "source": "new",
+  "note": "下载失败：HTTP None b\"URLError(TimeoutError('timed out'))\""
+ },
+ "url:https://people.csail.mit.edu/matei/papers/2013/eurosys_omega.pdf": {
+  "status": "fail",
+  "pdf": "https://people.csail.mit.edu/matei/papers/2013/eurosys_omega.pdf",
+  "source": "new",
+  "note": "下载失败：HTTP 404 "
+ },
+ "url:https://www.cs.cmu.edu/~garth/15719/papers/yarn.pdf": {
+  "status": "ok",
+  "pdf": "https://www.cs.cmu.edu/~garth/15719/papers/yarn.pdf",
+  "source": "new",
+  "note": "通过：HTTP 200；%PDF 头；pypdf 可解析 16 页、76374 字符；标题匹配 1.00；第一作者姓氏已见；参考文献节已见",
+  "pages": 16,
+  "chars": 76374,
+  "sha256": "ddeb4735aef6d540643565be6530b088dd01f9e45e902a67fe550cef5f418976",
+  "bytes": 819794,
+  "title_match": 1.0,
+  "author_found": true,
+  "refs": true,
+  "path": "09_systems_operations/papers/2013_Vavilapalli_ApacheHadoopYARN_en.pdf"
+ },
+ "url:https://www.usenix.org/system/files/conference/atc14/atc14-paper-ongaro.pdf": {
+  "status": "ok",
+  "pdf": "https://www.usenix.org/system/files/conference/atc14/atc14-paper-ongaro.pdf",
+  "source": "new",
+  "note": "通过：HTTP 200；%PDF 头；pypdf 可解析 16 页、79619 字符；标题匹配 1.00；第一作者姓氏已见；参考文献节已见",
+  "pages": 16,
+  "chars": 79619,
+  "sha256": "e6345fcba31cbc747ab41755aa62654859c4403dbb687da0021079f78181a7b5",
+  "bytes": 609953,
+  "title_match": 1.0,
+  "author_found": true,
+  "refs": true,
+  "path": "09_systems_operations/papers/2014_Ongaro_SearchUnderstandableConsensusAlgorithm_en.pdf"
+ }
+}

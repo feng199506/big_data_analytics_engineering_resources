@@ -1,0 +1,92 @@
+{
+ "url:https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-li_mu.pdf": {
+  "status": "ok",
+  "pdf": "https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-li_mu.pdf",
+  "source": "new",
+  "note": "通过：HTTP 200；%PDF 头；pypdf 可解析 17 页、70145 字符；标题匹配 1.00；第一作者姓氏已见；参考文献节已见",
+  "pages": 17,
+  "chars": 70145,
+  "sha256": "6f4098477e38e72f8dc2f46e2c233758c89ba33e6e3a19a9c7fff7de1998b1d2",
+  "bytes": 1160723,
+  "title_match": 1.0,
+  "author_found": true,
+  "refs": true,
+  "path": "07_large_scale_machine_learning/papers/2014_Li_ScalingDistributedMachineLearning_en.pdf"
+ },
+ "url:https://www.jmlr.org/papers/volume17/15-237/15-237.pdf": {
+  "status": "ok",
+  "pdf": "https://www.jmlr.org/papers/volume17/15-237/15-237.pdf",
+  "source": "new",
+  "note": "通过：HTTP 200；%PDF 头；pypdf 可解析 7 页、18299 字符；标题匹配 1.00；第一作者姓氏已见；参考文献节已见",
+  "pages": 7,
+  "chars": 18299,
+  "sha256": "61d33e8d9ef5ab8139b139bea1fa01a275967aa2da16caf87b824f282b37062f",
+  "bytes": 290952,
+  "title_match": 1.0,
+  "author_found": true,
+  "refs": true,
+  "path": "07_large_scale_machine_learning/papers/2016_Meng_MLlib_en.pdf"
+ },
+ "url:https://storage.googleapis.com/pub-tools-public-publication-data/pdf/43457.pdf": {
+  "status": "fail",
+  "pdf": "https://storage.googleapis.com/pub-tools-public-publication-data/pdf/43457.pdf",
+  "source": "new",
+  "note": "下载失败：HTTP 403 "
+ },
+ "url:https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems.pdf": {
+  "status": "ok",
+  "pdf": "https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems.pdf",
+  "source": "new",
+  "note": "通过：HTTP 200；%PDF 头；pypdf 可解析 9 页、36571 字符；标题匹配 1.00；第一作者姓氏已见；参考文献节已见",
+  "pages": 9,
+  "chars": 36571,
+  "sha256": "1a67da09a8bd5ba9a3577176e30aa2fbd88534e6baf0bc31522b4999f643d2a1",
+  "bytes": 165614,
+  "title_match": 1.0,
+  "author_found": true,
+  "refs": true,
+  "path": "07_large_scale_machine_learning/papers/2015_Sculley_HiddenTechnicalDebtMachine_en.pdf"
+ },
+ "url:https://stevenwhang.com/tfx_paper.pdf": {
+  "status": "ok",
+  "pdf": "https://stevenwhang.com/tfx_paper.pdf",
+  "source": "new",
+  "note": "通过：HTTP 200；%PDF 头；pypdf 可解析 9 页、51521 字符；标题匹配 1.00；第一作者姓氏已见；参考文献节已见",
+  "pages": 9,
+  "chars": 51521,
+  "sha256": "05b0236e9871214b0b790c332015e91c05b3542b0a36487b1848912603618ddb",
+  "bytes": 826419,
+  "title_match": 1.0,
+  "author_found": true,
+  "refs": true,
+  "path": "07_large_scale_machine_learning/papers/2017_Baylor_TFX_en.pdf"
+ },
+ "url:https://www.usenix.org/system/files/osdi18-moritz.pdf": {
+  "status": "ok",
+  "pdf": "https://www.usenix.org/system/files/osdi18-moritz.pdf",
+  "source": "new",
+  "note": "通过：HTTP 200；%PDF 头；pypdf 可解析 18 页、84626 字符；标题匹配 1.00；第一作者姓氏已见；参考文献节已见",
+  "pages": 18,
+  "chars": 84626,
+  "sha256": "066fecee9604ca232b5fbaeaa7dd260c88149a1be6dd4357ef16705986b99290",
+  "bytes": 5486963,
+  "title_match": 1.0,
+  "author_found": true,
+  "refs": true,
+  "path": "07_large_scale_machine_learning/papers/2018_Moritz_Ray_en.pdf"
+ },
+ "url:https://www.usenix.org/system/files/conference/osdi16/osdi16-abadi.pdf": {
+  "status": "ok",
+  "pdf": "https://www.usenix.org/system/files/conference/osdi16/osdi16-abadi.pdf",
+  "source": "new",
+  "note": "通过：HTTP 200；%PDF 头；pypdf 可解析 21 页、88920 字符；标题匹配 1.00；第一作者姓氏已见；参考文献节已见",
+  "pages": 21,
+  "chars": 88920,
+  "sha256": "bb1a8762e6555d231f2aa008e35ca2697384ff5077dbb7243e15d9dfe73f355a",
+  "bytes": 2238795,
+  "title_match": 1.0,
+  "author_found": true,
+  "refs": true,
+  "path": "07_large_scale_machine_learning/papers/2016_Abadi_TensorFlow_en.pdf"
+ }
+}

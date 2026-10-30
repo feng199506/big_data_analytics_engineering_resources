@@ -1,0 +1,15 @@
+{
+ "status": "verified",
+ "set": "software",
+ "title": "Apache Hudi official documentation subset (table types, writes, concurrency)",
+ "files": [
+  {
+   "path": "02_data_modeling_storage/software_docs/ApacheHudi_official_docs_subset_html_en",
+   "url": "https://hudi.apache.org/docs/overview",
+   "html_pages": 7,
+   "files": 28,
+   "bytes": 8810835
+  }
+ ],
+ "note": "官方 HTML，7 个页面全部 HTTP 200 且正文 ≥ 500 字符；wget 离线保存（页面资源、链接改写），共 28 个文件；页面清单 PAGES_en.txt"
+}

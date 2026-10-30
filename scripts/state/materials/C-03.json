@@ -1,0 +1,169 @@
+{
+ "status": "verified",
+ "set": "courses",
+ "title": "CMU 15-721 Advanced Database Systems (Spring 2024) slides",
+ "files": [
+  {
+   "path": "03_batch_processing/courses/CMU_15721_AdvancedDatabaseSystems_Spring2024_en/01_00-introduction_en.pdf",
+   "url": "https://15721.courses.cs.cmu.edu/spring2024/slides/00-introduction.pdf",
+   "pages": 30,
+   "sha256": "a018215a5eb2f5dbc3b183e18adae819c6dd14e766c0067e74bb6a9fd7325224",
+   "bytes": 819541
+  },
+  {
+   "path": "03_batch_processing/courses/CMU_15721_AdvancedDatabaseSystems_Spring2024_en/02_01-modernolap_en.pdf",
+   "url": "https://15721.courses.cs.cmu.edu/spring2024/slides/01-modernolap.pdf",
+   "pages": 29,
+   "sha256": "cdaea77a423a359d2b8257d5342ece06c65d3584835cbcac93a41921e07fbedd",
+   "bytes": 1589603
+  },
+  {
+   "path": "03_batch_processing/courses/CMU_15721_AdvancedDatabaseSystems_Spring2024_en/03_02-data1_en.pdf",
+   "url": "https://15721.courses.cs.cmu.edu/spring2024/slides/02-data1.pdf",
+   "pages": 40,
+   "sha256": "2cbe28e812d913874639b68a02d7b446704e84e864f1fb766ae66a1a32809764",
+   "bytes": 1561650
+  },
+  {
+   "path": "03_batch_processing/courses/CMU_15721_AdvancedDatabaseSystems_Spring2024_en/04_03-data2_en.pdf",
+   "url": "https://15721.courses.cs.cmu.edu/spring2024/slides/03-data2.pdf",
+   "pages": 72,
+   "sha256": "bb84ccd54cb2348dfecd5292dfea962db0479a5c010d64d3a2a800dd5a17fd4a",
+   "bytes": 2338575
+  },
+  {
+   "path": "03_batch_processing/courses/CMU_15721_AdvancedDatabaseSystems_Spring2024_en/05_04-execution1_en.pdf",
+   "url": "https://15721.courses.cs.cmu.edu/spring2024/slides/04-execution1.pdf",
+   "pages": 58,
+   "sha256": "3faad919bc78cb1544a6917e053007abbf03a01f53ede4e5a9693b6e982728c5",
+   "bytes": 2363809
+  },
+  {
+   "path": "03_batch_processing/courses/CMU_15721_AdvancedDatabaseSystems_Spring2024_en/06_05-execution2_en.pdf",
+   "url": "https://15721.courses.cs.cmu.edu/spring2024/slides/05-execution2.pdf",
+   "pages": 61,
+   "sha256": "3a7b6cf9d87f4886db0e6946ec01889cdf473c063aa502547aad0ec1138a4255",
+   "bytes": 1991175
+  },
+  {
+   "path": "03_batch_processing/courses/CMU_15721_AdvancedDatabaseSystems_Spring2024_en/07_06-vectorization_en.pdf",
+   "url": "https://15721.courses.cs.cmu.edu/spring2024/slides/06-vectorization.pdf",
+   "pages": 109,
+   "sha256": "a37a9a67442023b05479ab62a9a6b8eedc659908cf6a20b7909f18e4d7c7a8b0",
+   "bytes": 3632987
+  },
+  {
+   "path": "03_batch_processing/courses/CMU_15721_AdvancedDatabaseSystems_Spring2024_en/08_07-compilation_en.pdf",
+   "url": "https://15721.courses.cs.cmu.edu/spring2024/slides/07-compilation.pdf",
+   "pages": 70,
+   "sha256": "5b89a7dceedc4c4d65677568b1625c44398fc4a3db7d7718ff342fb88311d738",
+   "bytes": 2612555
+  },
+  {
+   "path": "03_batch_processing/courses/CMU_15721_AdvancedDatabaseSystems_Spring2024_en/09_08-scheduling_en.pdf",
+   "url": "https://15721.courses.cs.cmu.edu/spring2024/slides/08-scheduling.pdf",
+   "pages": 62,
+   "sha256": "930d0c32154d30d63cdb20a78ea84e99022f16bb9f9ccfbc3dee5e2a1b685c16",
+   "bytes": 2110904
+  },
+  {
+   "path": "03_batch_processing/courses/CMU_15721_AdvancedDatabaseSystems_Spring2024_en/10_09-hashjoins_en.pdf",
+   "url": "https://15721.courses.cs.cmu.edu/spring2024/slides/09-hashjoins.pdf",
+   "pages": 126,
+   "sha256": "f61f546ed31611dd0396562803b0b63871a3c74f65c3d372430e43cf1f5315f4",
+   "bytes": 3746034
+  },
+  {
+   "path": "03_batch_processing/courses/CMU_15721_AdvancedDatabaseSystems_Spring2024_en/11_10-multiwayjoins_en.pdf",
+   "url": "https://15721.courses.cs.cmu.edu/spring2024/slides/10-multiwayjoins.pdf",
+   "pages": 88,
+   "sha256": "8f4807aa0ac4ce1fcca9e2f16a5a08499fa4ce20d9c188f8e26713ed2b6af7b1",
+   "bytes": 4087720
+  },
+  {
+   "path": "03_batch_processing/courses/CMU_15721_AdvancedDatabaseSystems_Spring2024_en/12_11-udfs_en.pdf",
+   "url": "https://15721.courses.cs.cmu.edu/spring2024/slides/11-udfs.pdf",
+   "pages": 73,
+   "sha256": "0f2b001e46572ca45c491526f42377710df8c656179a6533af013371b8075788",
+   "bytes": 3320030
+  },
+  {
+   "path": "03_batch_processing/courses/CMU_15721_AdvancedDatabaseSystems_Spring2024_en/13_12-networking_en.pdf",
+   "url": "https://15721.courses.cs.cmu.edu/spring2024/slides/12-networking.pdf",
+   "pages": 45,
+   "sha256": "797a15831cb8a70ba0b9ed749d54c25ee1493da6d7fefd293351662e11e4426c",
+   "bytes": 2987233
+  },
+  {
+   "path": "03_batch_processing/courses/CMU_15721_AdvancedDatabaseSystems_Spring2024_en/14_13-optimizer1_en.pdf",
+   "url": "https://15721.courses.cs.cmu.edu/spring2024/slides/13-optimizer1.pdf",
+   "pages": 109,
+   "sha256": "f091431148017e3c1ec540a95e56d3a0e157b26025bb8924f236dbaf796fca61",
+   "bytes": 3181340
+  },
+  {
+   "path": "03_batch_processing/courses/CMU_15721_AdvancedDatabaseSystems_Spring2024_en/15_14-optimizer2_en.pdf",
+   "url": "https://15721.courses.cs.cmu.edu/spring2024/slides/14-optimizer2.pdf",
+   "pages": 93,
+   "sha256": "32e6d6708cf581243ee8f71815f26d135ac497c90482cb246be87e09cd1025e0",
+   "bytes": 2397926
+  },
+  {
+   "path": "03_batch_processing/courses/CMU_15721_AdvancedDatabaseSystems_Spring2024_en/16_15-optimizer3_en.pdf",
+   "url": "https://15721.courses.cs.cmu.edu/spring2024/slides/15-optimizer3.pdf",
+   "pages": 47,
+   "sha256": "a02f75df2fc06e6095d3f75a453bcb09f9eb3e339f9ee93ed82d647937041256",
+   "bytes": 1770890
+  },
+  {
+   "path": "03_batch_processing/courses/CMU_15721_AdvancedDatabaseSystems_Spring2024_en/17_16-costmodels_en.pdf",
+   "url": "https://15721.courses.cs.cmu.edu/spring2024/slides/16-costmodels.pdf",
+   "pages": 29,
+   "sha256": "0ea4e86ca8e24183dde7f5b75f7460ba0000c93089582a24973809aa2f723255",
+   "bytes": 1020327
+  },
+  {
+   "path": "03_batch_processing/courses/CMU_15721_AdvancedDatabaseSystems_Spring2024_en/18_17-bigquery_en.pdf",
+   "url": "https://15721.courses.cs.cmu.edu/spring2024/slides/17-bigquery.pdf",
+   "pages": 55,
+   "sha256": "7b5f1a78b0b7af616197588e5e0befafdadda852f496d762b35890344dc3b864",
+   "bytes": 1519459
+  },
+  {
+   "path": "03_batch_processing/courses/CMU_15721_AdvancedDatabaseSystems_Spring2024_en/19_18-databricks_en.pdf",
+   "url": "https://15721.courses.cs.cmu.edu/spring2024/slides/18-databricks.pdf",
+   "pages": 54,
+   "sha256": "7d7267d89f5634cacabf42387e0ca86121b50f8f6383dd3ccb90aaa8971e87cc",
+   "bytes": 2889590
+  },
+  {
+   "path": "03_batch_processing/courses/CMU_15721_AdvancedDatabaseSystems_Spring2024_en/20_19-snowflake_en.pdf",
+   "url": "https://15721.courses.cs.cmu.edu/spring2024/slides/19-snowflake.pdf",
+   "pages": 36,
+   "sha256": "41d3daeb0eb0c54a3705456914314d089bffa1c9c697c7c09367db3cb8c4371f",
+   "bytes": 1480922
+  },
+  {
+   "path": "03_batch_processing/courses/CMU_15721_AdvancedDatabaseSystems_Spring2024_en/21_20-duckdb_en.pdf",
+   "url": "https://15721.courses.cs.cmu.edu/spring2024/slides/20-duckdb.pdf",
+   "pages": 20,
+   "sha256": "d3c224f6b1a3bf69a90c2f2bac8b2ae0c436c5cdaf8a7d23b89881113a570d27",
+   "bytes": 1805637
+  },
+  {
+   "path": "03_batch_processing/courses/CMU_15721_AdvancedDatabaseSystems_Spring2024_en/22_21-yellowbrick_en.pdf",
+   "url": "https://15721.courses.cs.cmu.edu/spring2024/slides/21-yellowbrick.pdf",
+   "pages": 44,
+   "sha256": "b3f97ad81cf1b8b4e9301d656d628a2c5a68e50a724b2760715d0e2575c9aa14",
+   "bytes": 1426035
+  },
+  {
+   "path": "03_batch_processing/courses/CMU_15721_AdvancedDatabaseSystems_Spring2024_en/23_22-redshift_en.pdf",
+   "url": "https://15721.courses.cs.cmu.edu/spring2024/slides/22-redshift.pdf",
+   "pages": 16,
+   "sha256": "27fac222714e52d931c1b95d4159bfeceb477a5bc9b9aafa81890d764e7421cd",
+   "bytes": 1066578
+  }
+ ],
+ "note": "23 个 PDF 全部 HTTP 200 且可解析，合计 1366 页；文件链接取自官方索引页 https://15721.courses.cs.cmu.edu/spring2024/slides/（该页列出的全部匹配文件均已下载）"
+}

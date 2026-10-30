@@ -1,0 +1,72 @@
+{
+ "url:https://www.usenix.org/legacy/event/osdi04/tech/full_papers/dean/dean.pdf": {
+  "status": "ok",
+  "pdf": "https://www.usenix.org/legacy/event/osdi04/tech/full_papers/dean/dean.pdf",
+  "source": "new",
+  "note": "通过：HTTP 200；%PDF 头；pypdf 可解析 13 页、56627 字符；标题匹配 1.00；第一作者姓氏已见；参考文献节已见",
+  "pages": 13,
+  "chars": 56627,
+  "sha256": "9cfef3ef1b8fe1a1b66c7221f56c2eeca0b15d6608ea68b0c85a38bfbffd8ce5",
+  "bytes": 384452,
+  "title_match": 1.0,
+  "author_found": true,
+  "refs": true,
+  "path": "01_foundations/papers/2004_Dean_MapReduce_en.pdf"
+ },
+ "url:https://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf": {
+  "status": "ok",
+  "pdf": "https://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf",
+  "source": "new",
+  "note": "通过：HTTP 200；%PDF 头；pypdf 可解析 15 页、88646 字符；标题匹配 1.00；第一作者姓氏已见；参考文献节已见",
+  "pages": 15,
+  "chars": 88646,
+  "sha256": "108ced8f084131ae6241b2c43c0b8f8bee01a8427c2527cbc204c87f1fdfce33",
+  "bytes": 275941,
+  "title_match": 1.0,
+  "author_found": true,
+  "refs": true,
+  "path": "01_foundations/papers/2003_Ghemawat_GoogleFileSystem_en.pdf"
+ },
+ "url:https://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf": {
+  "status": "ok",
+  "pdf": "https://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf",
+  "source": "new",
+  "note": "通过：HTTP 200；%PDF 头；pypdf 可解析 14 页、68286 字符；标题匹配 1.00；第一作者姓氏已见；参考文献节已见",
+  "pages": 14,
+  "chars": 68286,
+  "sha256": "9126cf3b930fd7be2de6248f82565c9b970482eb063bdc30be8c1b29c86b2167",
+  "bytes": 221214,
+  "title_match": 1.0,
+  "author_found": true,
+  "refs": true,
+  "path": "01_foundations/papers/2006_Chang_Bigtable_en.pdf"
+ },
+ "url:https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf": {
+  "status": "ok",
+  "pdf": "https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf",
+  "source": "new",
+  "note": "通过：HTTP 200；%PDF 头；pypdf 可解析 16 页、95906 字符；标题匹配 1.00；第一作者姓氏已见；参考文献节已见",
+  "pages": 16,
+  "chars": 95906,
+  "sha256": "5cacd624cd7bfd37e3d22e04d8c2e347a49579d2927dbb06f40a89c0bcd40bd4",
+  "bytes": 900468,
+  "title_match": 1.0,
+  "author_found": true,
+  "refs": true,
+  "path": "01_foundations/papers/2007_DeCandia_Dynamo_en.pdf"
+ },
+ "url:https://static.googleusercontent.com/media/research.google.com/en//archive/spanner-osdi2012.pdf": {
+  "status": "ok",
+  "pdf": "https://static.googleusercontent.com/media/research.google.com/en//archive/spanner-osdi2012.pdf",
+  "source": "new",
+  "note": "通过：HTTP 200；%PDF 头；pypdf 可解析 14 页、69223 字符；标题匹配 1.00；第一作者姓氏已见；参考文献节已见",
+  "pages": 14,
+  "chars": 69223,
+  "sha256": "8cf30f4b379da5873dc9f7d82595d5cdc402083091cfff0e7beb00fd84473ea5",
+  "bytes": 446673,
+  "title_match": 1.0,
+  "author_found": true,
+  "refs": true,
+  "path": "01_foundations/papers/2012_Corbett_Spanner_en.pdf"
+ }
+}

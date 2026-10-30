@@ -1,0 +1,20 @@
+{
+ "status": "verified",
+ "set": "projects",
+ "title": "LHBench lakehouse format benchmark",
+ "files": [
+  {
+   "path": "02_data_modeling_storage/projects/lhbench_en",
+   "url": "https://github.com/lhbench/lhbench",
+   "commit": "ee2bc7db9e45665dc00536363f7cac3c4797f790",
+   "files": 33,
+   "archive_sha256": "d4a3eda081758764b77e51d65ad31bc4dc871043bfca5dd57439bc477d252439",
+   "bytes": 9679159
+  }
+ ],
+ "commit": "ee2bc7db9e45665dc00536363f7cac3c4797f790",
+ "license_files": [
+  "LICENSE"
+ ],
+ "note": "官方仓库快照 commit ee2bc7db9e45：归档 zip 完整性通过，解压 33 个文件（0 个 notebook）；应有文件已见 ['README.md']；许可证文件 ['LICENSE']；未发现 LFS 指针文件"
+}

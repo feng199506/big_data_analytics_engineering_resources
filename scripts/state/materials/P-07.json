@@ -1,0 +1,20 @@
+{
+ "status": "verified",
+ "set": "projects",
+ "title": "Delta Lake official examples",
+ "files": [
+  {
+   "path": "02_data_modeling_storage/projects/delta_examples_en",
+   "url": "https://github.com/delta-io/delta-examples",
+   "commit": "82ed21472bcd9801f0919b98a5afe9f40b3fcd74",
+   "files": 153,
+   "archive_sha256": "23acbb9160b975c6ab981a48098c6499b4329a788239dfe7efd277e889f58971",
+   "bytes": 1068435
+  }
+ ],
+ "commit": "82ed21472bcd9801f0919b98a5afe9f40b3fcd74",
+ "license_files": [
+  "LICENSE.txt"
+ ],
+ "note": "官方仓库快照 commit 82ed21472bcd：归档 zip 完整性通过，解压 153 个文件（87 个 notebook）；应有文件已见 ['README.md']；许可证文件 ['LICENSE.txt']；未发现 LFS 指针文件"
+}

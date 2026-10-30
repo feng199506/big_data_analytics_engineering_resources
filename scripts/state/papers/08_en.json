@@ -1,0 +1,50 @@
+{
+ "url:https://www.vldb.org/pvldb/vol11/p1781-schelter.pdf": {
+  "status": "ok",
+  "pdf": "https://www.vldb.org/pvldb/vol11/p1781-schelter.pdf",
+  "source": "new",
+  "note": "通过：HTTP 200；%PDF 头；pypdf 可解析 14 页、77890 字符；标题匹配 1.00；第一作者姓氏已见；参考文献节已见",
+  "pages": 14,
+  "chars": 77890,
+  "sha256": "d451ecf77b0fdc0756f91ec82aaa511c86bdb18229af13ab943c0f9e89a350cc",
+  "bytes": 1049733,
+  "title_match": 1.0,
+  "author_found": true,
+  "refs": true,
+  "path": "08_quality_governance/papers/2018_Schelter_AutomatingLargeScaleData_en.pdf"
+ },
+ "url:https://research.google/pubs/archive/45340.pdf": {
+  "status": "fail",
+  "pdf": "https://research.google/pubs/archive/45340.pdf",
+  "source": "new",
+  "note": "下载失败：HTTP 404 "
+ },
+ "url:https://www.cidrdb.org/cidr2015/Papers/CIDR15_Paper2.pdf": {
+  "status": "rejected",
+  "pdf": "https://www.cidrdb.org/cidr2015/Papers/CIDR15_Paper2.pdf",
+  "source": "new",
+  "note": "人工拒收：CIDR 编号对应的是 Data Wrangling 而非 DataHub，已剔除",
+  "pages": 9,
+  "chars": 51613,
+  "sha256": "c595c65936fdcf407a98d94844ddde058922b19784ad798950871561a18c681f",
+  "bytes": 572015,
+  "title_match": 0.38,
+  "author_found": false,
+  "refs": true,
+  "path": ""
+ },
+ "url:https://www.cidrdb.org/cidr2017/papers/p111-hellerstein-cidr17.pdf": {
+  "status": "ok",
+  "pdf": "https://www.cidrdb.org/cidr2017/papers/p111-hellerstein-cidr17.pdf",
+  "source": "new",
+  "note": "通过：HTTP 200；%PDF 头；pypdf 可解析 12 页、76374 字符；标题匹配 1.00；第一作者姓氏已见；参考文献节已见",
+  "pages": 12,
+  "chars": 76374,
+  "sha256": "3149f11633b692286bbe7c4b27e4ca7a5e3947fb5099ff60d07927eeb1ab26aa",
+  "bytes": 515167,
+  "title_match": 1.0,
+  "author_found": true,
+  "refs": true,
+  "path": "08_quality_governance/papers/2017_Hellerstein_Ground_en.pdf"
+ }
+}

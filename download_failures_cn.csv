@@ -1,0 +1,26 @@
+﻿编号,资料类型,标题,状态,说明,地址
+P03-003,论文/综述/教程,Photon: A High-Performance Query Engine for the Lakehouse,fail,仅 1 页,https://www.cidrdb.org/cidr2022/papers/a100-behm.pdf
+P04-003,论文/综述/教程,State Management in Apache Flink: Consistent Stateful Distributed Stream Processing,fail,无 %PDF- 文件头,https://www.vldb.org/pvldb/vol10/p1719-carbone.pdf
+P04-004,论文/综述/教程,Structured Streaming: A Declarative API for Real-Time Applications in Apache Spark,fail,下载失败：HTTP 404 ,https://people.csail.mit.edu/matei/papers/2018/sigmod_structured_streaming.pdf
+P04-006,论文/综述/教程,Apache Flink: Stream and Batch Processing in a Single Engine,fail,下载失败：HTTP 404 ,http://sites.computer.org/debull/A15dec/p11.pdf
+P04-008,论文/综述/教程,Structured Streaming: A Declarative API for Real-Time Applications in Apache Spark,fail,"下载失败：HTTP None b""URLError(ConnectionRefusedError(111, 'Connection refused'))""",https://cs.stanford.edu/~matei/papers/2018/sigmod_structured_streaming.pdf
+P04-009,论文/综述/教程,State Management in Apache Flink: Consistent Stateful Distributed Stream Processing,fail,无 %PDF- 文件头,https://vldb.org/pvldb/vol10/p1719-carbone.pdf
+P05-001,论文/综述/教程,DBLog: A Watermark Based Change-Data-Capture Framework,rejected,人工拒收：CIDR 编号对应的是另一篇论文，非 DBLog，已剔除,https://www.cidrdb.org/cidr2021/papers/cidr2021_paper03.pdf
+P05-004,论文/综述/教程,Databus: LinkedIn's Change Data Capture System,fail,"下载失败：HTTP None b""URLError(OSError(113, 'No route to host'))""",https://i.stanford.edu/~ragho/databus-sigmod2012.pdf
+P06-002,论文/综述/教程,VerdictDB: Universalizing Approximate Query Processing,fail,"下载失败：HTTP None b""URLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certifica""",https://web.eecs.umich.edu/~mozafari/php/data/uploads/verdict_sigmod_2018.pdf
+P08-002,论文/综述/教程,Goods: Organizing Google's Datasets,fail,下载失败：HTTP 404 ,https://research.google/pubs/archive/45340.pdf
+P08-003,论文/综述/教程,DataHub: Collaborative Data Science & Dataset Version Management at Scale,rejected,人工拒收：CIDR 编号对应的是 Data Wrangling 而非 DataHub，已剔除,https://www.cidrdb.org/cidr2015/Papers/CIDR15_Paper2.pdf
+P09-005,论文/综述/教程,The Datacenter as a Computer: Designing Warehouse-Scale Machines (3rd ed excerpt paper),fail,"下载失败：HTTP None b""URLError(TimeoutError('timed out'))""",https://www.morganclaypool.com/doi/pdf/10.2200/S00874ED3V01Y201809CAC046
+P09-006,论文/综述/教程,"Omega: flexible, scalable schedulers for large compute clusters",fail,下载失败：HTTP 404 ,https://people.csail.mit.edu/matei/papers/2013/eurosys_omega.pdf
+P10-001,论文/综述/教程,Shared Foundations: Modernizing Meta's Data Lakehouse,fail,下载失败：HTTP 404 ,https://www.cidrdb.org/cidr2023/papers/p75-chattopadhyay.pdf
+P10-002,论文/综述/教程,Dremel: A Decade of Interactive SQL Analysis at Web Scale,dup_elsewhere,已由 02 群收录，本群不重复计数,https://www.vldb.org/pvldb/vol13/p3461-melnik.pdf
+B-18,教科书/专著/参考书,"Readings in Database Systems (5th edition, Red Book online)",pending,,http://www.redbook.io/
+B-19,教科书/专著/参考书,Python Data Science Handbook (free HTML edition),pending,,https://jakevdp.github.io/PythonDataScienceHandbook/
+B-20,教科书/专著/参考书,"Site Reliability Engineering (Google SRE Book, online)",pending,,https://sre.google/sre-book/table-of-contents/
+C-10,大学课程/讲义,MIT OCW 6.033 Computer System Engineering (Spring 2018) course pack,failed,未从索引页取得文件链接（ok）,https://ocw.mit.edu/courses/6-033-computer-system-engineering-spring-2018/download/
+C-11,大学课程/讲义,MIT OCW 6.830 Database Systems (Fall 2010) course pack,failed,未从索引页取得文件链接（ok）,https://ocw.mit.edu/courses/6-830-database-systems-fall-2010/download/
+C-12,大学课程/讲义,CMU 15-445/645 Database Systems (Fall 2024 archived complete notes),failed,合计仅 128 页 < 200,https://15445.courses.cs.cmu.edu/fall2024/notes/
+S-11,官方软件文档,"DuckDB official documentation subset (SQL, Parquet, Python, performance)",failed,7 个页面正文 < 400 字符，如 https://duckdb.org/docs/,https://duckdb.org/docs/
+S-13,官方软件文档,"Kubernetes official documentation subset (jobs, config, metrics, logging)",pending,,https://kubernetes.io/docs/concepts/overview/
+S-15,官方软件文档,"Dagster official documentation subset (assets, automation, retries)",pending,,https://docs.dagster.io/
+P-13,参考项目/实验,Trino getting started (SQL on lakehouse connectors),failed,归档 40 MiB 超过上限,https://github.com/bitsondatadev/trino-getting-started

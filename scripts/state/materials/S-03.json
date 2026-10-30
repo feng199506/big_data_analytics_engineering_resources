@@ -1,0 +1,15 @@
+{
+ "status": "verified",
+ "set": "software",
+ "title": "Apache Kafka official documentation subset (design, APIs, semantics, ops)",
+ "files": [
+  {
+   "path": "04_stream_processing/software_docs/ApacheKafka_official_docs_subset_html_en",
+   "url": "https://kafka.apache.org/documentation/",
+   "html_pages": 1,
+   "files": 18,
+   "bytes": 1545243
+  }
+ ],
+ "note": "官方 HTML，1 个页面全部 HTTP 200 且正文 ≥ 400 字符；wget 离线保存（页面资源、链接改写），共 18 个文件；页面清单 PAGES_en.txt"
+}

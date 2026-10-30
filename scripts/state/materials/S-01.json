@@ -1,0 +1,15 @@
+{
+ "status": "verified",
+ "set": "software",
+ "title": "Apache Spark official documentation subset (SQL, streaming, tuning, ops)",
+ "files": [
+  {
+   "path": "03_batch_processing/software_docs/ApacheSpark_official_docs_subset_html_en",
+   "url": "https://spark.apache.org/docs/latest/",
+   "html_pages": 9,
+   "files": 25,
+   "bytes": 1676757
+  }
+ ],
+ "note": "官方 HTML，9 个页面全部 HTTP 200 且正文 ≥ 800 字符；wget 离线保存（页面资源、链接改写），共 25 个文件；页面清单 PAGES_en.txt"
+}

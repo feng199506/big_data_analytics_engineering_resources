@@ -1,0 +1,17 @@
+{
+ "id": "2304.08894",
+ "title": "Discreetly Exploiting Inter-session Information for Session-based Recommendation",
+ "authors": [
+  "Zihan Wang",
+  "Gang wu",
+  "Haotong Wang"
+ ],
+ "v1_date": "2023-04-18",
+ "latest_version": 1,
+ "latest_date": "2023-04-18",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "",
+ "abstract": "Limited intra-session information is the performance bottleneck of the early GNN based SBR models. Therefore, some GNN based SBR models have evolved to introduce additional inter-session information to facilitate the next-item prediction. However, we found that the introduction of inter-session information may bring interference to these models. The possible reasons are twofold. First, inter-session dependencies are not differentiated at the factor-level. Second, measuring inter-session weight by similarity is not enough. In this paper, we propose DEISI to solve the problems. For the first problem, DEISI differentiates the types of inter-session dependencies at the factor-level with the help of DRL technology. For the second problem, DEISI introduces stability as a new metric for weighting inter-session dependencies together with the similarity. Moreover, CL is used to improve the robustness of the model. Extensive experiments on three datasets show the superior performance of the DEISI model compared with the state-of-the-art models.",
+ "primary": "cs.IR"
+}

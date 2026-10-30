@@ -1,0 +1,20 @@
+{
+ "status": "verified",
+ "set": "projects",
+ "title": "ClickHouse official examples",
+ "files": [
+  {
+   "path": "06_analytics_statistics/projects/ClickHouse_examples_en",
+   "url": "https://github.com/ClickHouse/examples",
+   "commit": "c11eeea1b1cad6b3b0ddbf7d1c260196f0f9f418",
+   "files": 2726,
+   "archive_sha256": "cd625f25c11b2930a9e9051e08c5aa01ec9e4bc5b7e7d87f4e698da05fe20e32",
+   "bytes": 90616047
+  }
+ ],
+ "commit": "c11eeea1b1cad6b3b0ddbf7d1c260196f0f9f418",
+ "license_files": [
+  "LICENSE"
+ ],
+ "note": "官方仓库快照 commit c11eeea1b1ca：归档 zip 完整性通过，解压 2726 个文件（72 个 notebook）；应有文件已见 ['README.md']；许可证文件 ['LICENSE']；未发现 LFS 指针文件"
+}

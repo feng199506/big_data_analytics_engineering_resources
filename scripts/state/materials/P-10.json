@@ -1,0 +1,20 @@
+{
+ "status": "verified",
+ "set": "projects",
+ "title": "Great Expectations tutorial (dataroots)",
+ "files": [
+  {
+   "path": "08_quality_governance/projects/great_expectations_tutorial_en",
+   "url": "https://github.com/datarootsio/tutorial-great-expectations",
+   "commit": "5fb8d3b6e02d7447b65ec05918c4f610faccb252",
+   "files": 68,
+   "archive_sha256": "5a03071cb20bee27e7e24209ea45cd456e9c43beec44327cef82edad1f952913",
+   "bytes": 8487078
+  }
+ ],
+ "commit": "5fb8d3b6e02d7447b65ec05918c4f610faccb252",
+ "license_files": [
+  "LICENSE"
+ ],
+ "note": "官方仓库快照 commit 5fb8d3b6e02d：归档 zip 完整性通过，解压 68 个文件（4 个 notebook）；应有文件已见 ['README.md']；许可证文件 ['LICENSE']；未发现 LFS 指针文件"
+}

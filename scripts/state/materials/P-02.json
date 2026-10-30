@@ -1,0 +1,20 @@
+{
+ "status": "verified",
+ "set": "projects",
+ "title": "Learning Spark 2nd Edition companion code",
+ "files": [
+  {
+   "path": "03_batch_processing/projects/LearningSparkV2_code_en",
+   "url": "https://github.com/databricks/LearningSparkV2",
+   "commit": "8d5bdf6fd7b58da930855eb3d5ead38e6fb039e4",
+   "files": 648,
+   "archive_sha256": "4d7bcc90bc99c0843f0fa4ec3b5ce60ad78ca9f9b20863d3f395c064023d1570",
+   "bytes": 79812530
+  }
+ ],
+ "commit": "8d5bdf6fd7b58da930855eb3d5ead38e6fb039e4",
+ "license_files": [
+  "LICENSE"
+ ],
+ "note": "官方仓库快照 commit 8d5bdf6fd7b5：归档 zip 完整性通过，解压 648 个文件（0 个 notebook）；应有文件已见 ['README.md']；许可证文件 ['LICENSE']；未发现 LFS 指针文件"
+}

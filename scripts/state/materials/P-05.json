@@ -1,0 +1,18 @@
+{
+ "status": "verified",
+ "set": "projects",
+ "title": "DataTalksClub Data Engineering Zoomcamp",
+ "files": [
+  {
+   "path": "10_practical_applications/projects/data_engineering_zoomcamp_en",
+   "url": "https://github.com/DataTalksClub/data-engineering-zoomcamp",
+   "commit": "8207266ca9fb30f0578cd5ffc4701cb8c3f7a52e",
+   "files": 953,
+   "archive_sha256": "26316846e4f34e9b86736f0c2dc5be83b86cbf0311e305f014c86b17e16c9858",
+   "bytes": 41832487
+  }
+ ],
+ "commit": "8207266ca9fb30f0578cd5ffc4701cb8c3f7a52e",
+ "license_files": [],
+ "note": "官方仓库快照 commit 8207266ca9fb：归档 zip 完整性通过，解压 953 个文件（20 个 notebook）；应有文件已见 ['README.md']；仓库根目录未见许可证文件；未发现 LFS 指针文件"
+}

@@ -1,0 +1,20 @@
+{
+ "status": "verified",
+ "set": "projects",
+ "title": "Debezium official examples (CDC)",
+ "files": [
+  {
+   "path": "05_ingestion_orchestration/projects/debezium_examples_en",
+   "url": "https://github.com/debezium/debezium-examples",
+   "commit": "38b7dcfab83c288a053b79069915473e96cb045e",
+   "files": 1225,
+   "archive_sha256": "47a2f6aba145e87fd9bd4e6bbb81ae3d25b754136d38ee046bfd89bbd2ab3d91",
+   "bytes": 38451686
+  }
+ ],
+ "commit": "38b7dcfab83c288a053b79069915473e96cb045e",
+ "license_files": [
+  "LICENSE.txt"
+ ],
+ "note": "官方仓库快照 commit 38b7dcfab83c：归档 zip 完整性通过，解压 1225 个文件（2 个 notebook）；应有文件已见 ['README.md']；许可证文件 ['LICENSE.txt']；未发现 LFS 指针文件"
+}

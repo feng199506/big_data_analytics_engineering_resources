@@ -1,0 +1,20 @@
+{
+ "status": "verified",
+ "set": "projects",
+ "title": "Spark + Iceberg docker compose reference",
+ "files": [
+  {
+   "path": "02_data_modeling_storage/projects/docker_spark_iceberg_en",
+   "url": "https://github.com/tabular-io/docker-spark-iceberg",
+   "commit": "cf617dc29e8672792e76b9bcf6017af52f570020",
+   "files": 40,
+   "archive_sha256": "0edb430061efca496040894eeab5c92d610d6ec615c96a234a72584f1f59128d",
+   "bytes": 126497
+  }
+ ],
+ "commit": "cf617dc29e8672792e76b9bcf6017af52f570020",
+ "license_files": [
+  "LICENSE"
+ ],
+ "note": "官方仓库快照 commit cf617dc29e86：归档 zip 完整性通过，解压 40 个文件（10 个 notebook）；应有文件已见 ['README.md']；许可证文件 ['LICENSE']；未发现 LFS 指针文件"
+}

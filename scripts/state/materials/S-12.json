@@ -1,0 +1,15 @@
+{
+ "status": "verified",
+ "set": "software",
+ "title": "Apache Airflow and dbt official documentation subset (DAGs, scheduler, incremental)",
+ "files": [
+  {
+   "path": "05_ingestion_orchestration/software_docs/Airflow_dbt__edc2fdf2",
+   "url": "https://airflow.apache.org/docs/apache-airflow/stable/index.html",
+   "html_pages": 8,
+   "files": 96,
+   "bytes": 31086422
+  }
+ ],
+ "note": "官方 HTML，8 个页面全部 HTTP 200 且正文 ≥ 500 字符；wget 离线保存（页面资源、链接改写），共 96 个文件；页面清单 PAGES_en.txt"
+}

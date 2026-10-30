@@ -1,0 +1,6 @@
+{
+ "status": "failed",
+ "set": "projects",
+ "note": "归档 40 MiB 超过上限",
+ "title": "Trino getting started (SQL on lakehouse connectors)"
+}

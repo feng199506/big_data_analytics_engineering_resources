@@ -1,0 +1,50 @@
+{
+ "url:https://www.cidrdb.org/cidr2021/papers/cidr2021_paper03.pdf": {
+  "status": "rejected",
+  "pdf": "https://www.cidrdb.org/cidr2021/papers/cidr2021_paper03.pdf",
+  "source": "new",
+  "note": "人工拒收：CIDR 编号对应的是另一篇论文，非 DBLog，已剔除",
+  "pages": 9,
+  "chars": 55251,
+  "sha256": "fdd95f8468fbf37da1b7e21823584b6760d19123b1e3fc80eda419ca85e9b286",
+  "bytes": 1118856,
+  "title_match": 0.5,
+  "author_found": false,
+  "refs": true,
+  "path": ""
+ },
+ "url:https://www.vldb.org/pvldb/vol6/p1045-rae.pdf": {
+  "status": "ok",
+  "pdf": "https://www.vldb.org/pvldb/vol6/p1045-rae.pdf",
+  "source": "new",
+  "note": "通过：HTTP 200；%PDF 头；pypdf 可解析 12 页、66381 字符；标题匹配 1.00；第一作者姓氏已见；参考文献节已见",
+  "pages": 12,
+  "chars": 66381,
+  "sha256": "b0ae669e09780858c28f3d27050f023c44076c5071e0af4999c11256f0b868a0",
+  "bytes": 679747,
+  "title_match": 1.0,
+  "author_found": true,
+  "refs": true,
+  "path": "05_ingestion_orchestration/papers/2013_Rae_OnlineAsynchronousSchemaChange_en.pdf"
+ },
+ "url:https://www.vldb.org/pvldb/vol6/p1068-shute.pdf": {
+  "status": "ok",
+  "pdf": "https://www.vldb.org/pvldb/vol6/p1068-shute.pdf",
+  "source": "new",
+  "note": "通过：HTTP 200；%PDF 头；pypdf 可解析 12 页、69680 字符；标题匹配 1.00；第一作者姓氏已见；参考文献节已见",
+  "pages": 12,
+  "chars": 69680,
+  "sha256": "ae150e1f952d39fbe712c6a910c2aa8ab34647e5287eff54f50d62d1688658e3",
+  "bytes": 416055,
+  "title_match": 1.0,
+  "author_found": true,
+  "refs": true,
+  "path": "05_ingestion_orchestration/papers/2013_Shute_F1_en.pdf"
+ },
+ "url:https://i.stanford.edu/~ragho/databus-sigmod2012.pdf": {
+  "status": "fail",
+  "pdf": "https://i.stanford.edu/~ragho/databus-sigmod2012.pdf",
+  "source": "new",
+  "note": "下载失败：HTTP None b\"URLError(OSError(113, 'No route to host'))\""
+ }
+}

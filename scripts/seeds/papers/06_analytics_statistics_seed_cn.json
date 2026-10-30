@@ -1,0 +1,119 @@
+[
+ {
+  "title": "MacroBase: Prioritizing Attention in Fast Data",
+  "authors": [
+   "Peter Bailis",
+   "Edward Gan",
+   "Samuel Madden",
+   "Deepak Narayanan",
+   "Kexin Rong",
+   "Sahaana Suri"
+  ],
+  "date": "2017-05-14",
+  "date_basis": "SIGMOD 2017",
+  "venue": "SIGMOD 2017 主会",
+  "pdf_url": "https://www.bailis.org/papers/macrobase-sigmod2017.pdf",
+  "landing": "https://dl.acm.org/doi/10.1145/3035918.3056445",
+  "version": "作者公开全文",
+  "subtopic": "anomaly",
+  "type": "主会论文",
+  "classic_reason": "快速数据异常解释经典系统。",
+  "reason": "流式异常与解释。",
+  "summary": "MacroBase 定位异常子集。",
+  "level": "硕士/工程师",
+  "difficulty": "中级",
+  "summary_basis": "公开 PDF 摘要"
+ },
+ {
+  "title": "VerdictDB: Universalizing Approximate Query Processing",
+  "authors": [
+   "Yongjoo Park",
+   "Barzan Mozafari",
+   "Joseph Sorenson",
+   "Junhao Wang"
+  ],
+  "date": "2018-05-27",
+  "date_basis": "SIGMOD 2018",
+  "venue": "SIGMOD 2018 主会",
+  "pdf_url": "https://web.eecs.umich.edu/~mozafari/php/data/uploads/verdict_sigmod_2018.pdf",
+  "landing": "https://dl.acm.org/doi/10.1145/3183713.3197068",
+  "version": "作者公开 PDF",
+  "subtopic": "approx-query",
+  "type": "主会论文",
+  "classic_reason": "仓库中间层近似查询经典。",
+  "reason": "不改引擎的 AQP。",
+  "summary": "JDBC 层近似查询。",
+  "level": "硕士/工程师",
+  "difficulty": "中级",
+  "summary_basis": "公开 PDF 摘要"
+ },
+ {
+  "title": "BlinkDB: Queries with Bounded Errors and Bounded Response Times on Very Large Data",
+  "authors": [
+   "Sameer Agarwal",
+   "Barzan Mozafari",
+   "Aurojit Panda",
+   "Henry Milner",
+   "Samuel Madden",
+   "Ion Stoica"
+  ],
+  "date": "2013-04-15",
+  "date_basis": "EuroSys 2013",
+  "venue": "EuroSys 2013 主会",
+  "pdf_url": "https://www.cs.berkeley.edu/~sameerag/blinkdb_eurosys13.pdf",
+  "landing": "https://dl.acm.org/doi/10.1145/2465351.2465355",
+  "version": "作者公开 PDF",
+  "subtopic": "approx-query",
+  "type": "主会论文",
+  "classic_reason": "有界误差近似查询经典。",
+  "reason": "分层抽样与误差界限。",
+  "summary": "分层抽样交互查询。",
+  "level": "硕士/工程师",
+  "difficulty": "中级",
+  "summary_basis": "公开 PDF 摘要"
+ },
+ {
+  "title": "Optimal Quantile Approximation in Streams",
+  "authors": [
+   "Zohar Karnin",
+   "Kevin Lang",
+   "Edo Liberty"
+  ],
+  "date": "2016-06-19",
+  "date_basis": "ICML 2016",
+  "venue": "ICML 2016 主会",
+  "pdf_url": "https://arxiv.org/pdf/1603.05346.pdf",
+  "landing": "https://arxiv.org/abs/1603.05346",
+  "version": "arXiv 1603.05346（下载后核验标题须为 KLL/quantile sketch）",
+  "subtopic": "sketches",
+  "type": "主会论文",
+  "classic_reason": "KLL 分位数 sketch 经典，DataSketches 基础。",
+  "reason": "分位数摘要。",
+  "summary": "流式分位数近似。",
+  "level": "硕士/工程师",
+  "difficulty": "中级",
+  "summary_basis": "公开 PDF 摘要"
+ },
+ {
+  "level": "硕士/工程师",
+  "difficulty": "中级",
+  "summary_basis": "公开 PDF 首页/摘要",
+  "title": "DuckPGQ: Efficient Property Graph Queries in an analytical RDBMS",
+  "authors": [
+   "Daniel ten Wolde",
+   "Tavneet Singh",
+   "Gábor Szárnyas",
+   "Peter Boncz"
+  ],
+  "date": "2023-01-08",
+  "date_basis": "CIDR 2023",
+  "venue": "CIDR 2023 主会",
+  "pdf_url": "https://www.cidrdb.org/cidr2023/papers/p66-wolde.pdf",
+  "landing": "https://www.cidrdb.org/cidr2023/papers/p66-wolde.pdf",
+  "version": "CIDR 2023 公开全文",
+  "subtopic": "graph-in-olap",
+  "type": "主会论文",
+  "reason": "近五年在 DuckDB 上做 SQL/PGQ 图查询，对应大规模分析。",
+  "summary": "在嵌入式分析库中加入属性图查询与路径算法。"
+ }
+]

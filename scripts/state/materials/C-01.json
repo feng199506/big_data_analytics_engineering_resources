@@ -1,0 +1,176 @@
+{
+ "status": "verified",
+ "set": "courses",
+ "title": "CMU 15-445/645 Database Systems (Fall 2025) lecture notes",
+ "files": [
+  {
+   "path": "01_foundations/courses/CMU_15445_DatabaseSystems_Fall2025_en/01_01-relationalmodel_en.pdf",
+   "url": "https://15445.courses.cs.cmu.edu/fall2025/notes/01-relationalmodel.pdf",
+   "pages": 6,
+   "sha256": "04b1d42c347280ed7b210ab87a31b35c7999ffc05ba8d53a08094026c0e2a1f1",
+   "bytes": 352983
+  },
+  {
+   "path": "01_foundations/courses/CMU_15445_DatabaseSystems_Fall2025_en/02_02-modernsql_en.pdf",
+   "url": "https://15445.courses.cs.cmu.edu/fall2025/notes/02-modernsql.pdf",
+   "pages": 9,
+   "sha256": "b3f9e5224da1c5879d251838e434692be476e6d6df278b5cf28a97f190341903",
+   "bytes": 343847
+  },
+  {
+   "path": "01_foundations/courses/CMU_15445_DatabaseSystems_Fall2025_en/03_03-storage1_en.pdf",
+   "url": "https://15445.courses.cs.cmu.edu/fall2025/notes/03-storage1.pdf",
+   "pages": 6,
+   "sha256": "4f2d29f5ceed35c2a312bf28a761228faf36c58d9fe6d1972777a93bfd26f872",
+   "bytes": 286423
+  },
+  {
+   "path": "01_foundations/courses/CMU_15445_DatabaseSystems_Fall2025_en/04_04-bufferpool_en.pdf",
+   "url": "https://15445.courses.cs.cmu.edu/fall2025/notes/04-bufferpool.pdf",
+   "pages": 5,
+   "sha256": "2d5437ec06acd1535c68564b5ed131736ca60ebce22558c63275329b63da7c7e",
+   "bytes": 504029
+  },
+  {
+   "path": "01_foundations/courses/CMU_15445_DatabaseSystems_Fall2025_en/05_05-storage2_en.pdf",
+   "url": "https://15445.courses.cs.cmu.edu/fall2025/notes/05-storage2.pdf",
+   "pages": 3,
+   "sha256": "6d26f4bfef41a479458b723983423f990f56f3aa2d3e1c85a312ce9265c68e96",
+   "bytes": 252564
+  },
+  {
+   "path": "01_foundations/courses/CMU_15445_DatabaseSystems_Fall2025_en/06_06-storage3_en.pdf",
+   "url": "https://15445.courses.cs.cmu.edu/fall2025/notes/06-storage3.pdf",
+   "pages": 5,
+   "sha256": "4753912ce1a5dd4ae561a8a7739aee17e8869612b4f09ee2632256284e86e58e",
+   "bytes": 241690
+  },
+  {
+   "path": "01_foundations/courses/CMU_15445_DatabaseSystems_Fall2025_en/07_07-hashtables_en.pdf",
+   "url": "https://15445.courses.cs.cmu.edu/fall2025/notes/07-hashtables.pdf",
+   "pages": 4,
+   "sha256": "495fac5342cdffcb537e4062bc99d1191af29fb34025e49213c8a915cc180cb4",
+   "bytes": 282926
+  },
+  {
+   "path": "01_foundations/courses/CMU_15445_DatabaseSystems_Fall2025_en/08_08-indexes1_en.pdf",
+   "url": "https://15445.courses.cs.cmu.edu/fall2025/notes/08-indexes1.pdf",
+   "pages": 7,
+   "sha256": "65615019b41dbdbd1236ad4139da68e6e364ae9f3f30ee084b72672849fa7a59",
+   "bytes": 797616
+  },
+  {
+   "path": "01_foundations/courses/CMU_15445_DatabaseSystems_Fall2025_en/09_09-indexes2_en.pdf",
+   "url": "https://15445.courses.cs.cmu.edu/fall2025/notes/09-indexes2.pdf",
+   "pages": 7,
+   "sha256": "36a4f158942d73af03da0d2067bd7d02d7d2901dea5d8e6a8d1af3936e804678",
+   "bytes": 1071700
+  },
+  {
+   "path": "01_foundations/courses/CMU_15445_DatabaseSystems_Fall2025_en/10_10-indexconcurrency_en.pdf",
+   "url": "https://15445.courses.cs.cmu.edu/fall2025/notes/10-indexconcurrency.pdf",
+   "pages": 5,
+   "sha256": "7b1f745534a52250738f077b3e42589ae05d8dafee1b160d7f74b26b73bd4fde",
+   "bytes": 279970
+  },
+  {
+   "path": "01_foundations/courses/CMU_15445_DatabaseSystems_Fall2025_en/11_11-sorting_en.pdf",
+   "url": "https://15445.courses.cs.cmu.edu/fall2025/notes/11-sorting.pdf",
+   "pages": 3,
+   "sha256": "eeff37fd43891eca377cd1f274984b70739c28f1edab3cda03a7541bdd0e099a",
+   "bytes": 334153
+  },
+  {
+   "path": "01_foundations/courses/CMU_15445_DatabaseSystems_Fall2025_en/12_12-joins_en.pdf",
+   "url": "https://15445.courses.cs.cmu.edu/fall2025/notes/12-joins.pdf",
+   "pages": 5,
+   "sha256": "15bd9a6dc8a80538fa91757f1183f3f433c971f63f15e231e180a523fb07e153",
+   "bytes": 339031
+  },
+  {
+   "path": "01_foundations/courses/CMU_15445_DatabaseSystems_Fall2025_en/13_13-queryexecution1_en.pdf",
+   "url": "https://15445.courses.cs.cmu.edu/fall2025/notes/13-queryexecution1.pdf",
+   "pages": 7,
+   "sha256": "bb90fbd8fa3548d7a83ad11ed483cac1c438f591820034b2cde4b0490b33a2ea",
+   "bytes": 1155673
+  },
+  {
+   "path": "01_foundations/courses/CMU_15445_DatabaseSystems_Fall2025_en/14_14-queryexecution2_en.pdf",
+   "url": "https://15445.courses.cs.cmu.edu/fall2025/notes/14-queryexecution2.pdf",
+   "pages": 6,
+   "sha256": "03d624f244e89961754bab16980300b0170de4592924648089f006c6cc750903",
+   "bytes": 825954
+  },
+  {
+   "path": "01_foundations/courses/CMU_15445_DatabaseSystems_Fall2025_en/15_15-optimization1_en.pdf",
+   "url": "https://15445.courses.cs.cmu.edu/fall2025/notes/15-optimization1.pdf",
+   "pages": 8,
+   "sha256": "5c08f1998e4befb3450d3363919edf1ffd2f89650a13fa4f9dff19e2bafd60ec",
+   "bytes": 1201100
+  },
+  {
+   "path": "01_foundations/courses/CMU_15445_DatabaseSystems_Fall2025_en/16_16-optimization2_en.pdf",
+   "url": "https://15445.courses.cs.cmu.edu/fall2025/notes/16-optimization2.pdf",
+   "pages": 5,
+   "sha256": "629d7491991541f360d9dec5b1018d0ae05da50bdc9899f46910331656ccbc75",
+   "bytes": 1695463
+  },
+  {
+   "path": "01_foundations/courses/CMU_15445_DatabaseSystems_Fall2025_en/17_17-concurrencycontrol_en.pdf",
+   "url": "https://15445.courses.cs.cmu.edu/fall2025/notes/17-concurrencycontrol.pdf",
+   "pages": 5,
+   "sha256": "d2246ae861c20eba02449cdcd14eceb0bf8b4618df0621af6c5dd78ba01689a2",
+   "bytes": 452774
+  },
+  {
+   "path": "01_foundations/courses/CMU_15445_DatabaseSystems_Fall2025_en/18_18-twophaselocking_en.pdf",
+   "url": "https://15445.courses.cs.cmu.edu/fall2025/notes/18-twophaselocking.pdf",
+   "pages": 5,
+   "sha256": "f8c32d4fa048e54711d698fb87877d1190ab010fb4513df4d17545c23491f814",
+   "bytes": 386998
+  },
+  {
+   "path": "01_foundations/courses/CMU_15445_DatabaseSystems_Fall2025_en/19_19-timestampordering_en.pdf",
+   "url": "https://15445.courses.cs.cmu.edu/fall2025/notes/19-timestampordering.pdf",
+   "pages": 4,
+   "sha256": "ed12526d2e7c91b36a4a023dc308fd2d2da741dd88c0836ed07448e082bfe700",
+   "bytes": 302647
+  },
+  {
+   "path": "01_foundations/courses/CMU_15445_DatabaseSystems_Fall2025_en/20_20-multiversioning_en.pdf",
+   "url": "https://15445.courses.cs.cmu.edu/fall2025/notes/20-multiversioning.pdf",
+   "pages": 4,
+   "sha256": "1858f1ef124a787550820bd74568bf4158fd183978b4154596c53d6fe0111a95",
+   "bytes": 265741
+  },
+  {
+   "path": "01_foundations/courses/CMU_15445_DatabaseSystems_Fall2025_en/21_21-logging_en.pdf",
+   "url": "https://15445.courses.cs.cmu.edu/fall2025/notes/21-logging.pdf",
+   "pages": 7,
+   "sha256": "badcd1288ea429011be4bf32a7cc6f4bbaefa1f733065e04ca9ce8964d9cd4ba",
+   "bytes": 519786
+  },
+  {
+   "path": "01_foundations/courses/CMU_15445_DatabaseSystems_Fall2025_en/22_22-recovery_en.pdf",
+   "url": "https://15445.courses.cs.cmu.edu/fall2025/notes/22-recovery.pdf",
+   "pages": 6,
+   "sha256": "0cc09b5e0d95caeac0e1ed19e6ab02e72d1fbc28cbd19fe4bcdcbfa7968b075a",
+   "bytes": 809617
+  },
+  {
+   "path": "01_foundations/courses/CMU_15445_DatabaseSystems_Fall2025_en/23_23-distributed1_en.pdf",
+   "url": "https://15445.courses.cs.cmu.edu/fall2025/notes/23-distributed1.pdf",
+   "pages": 5,
+   "sha256": "3da9a59504ad4872de66f981e6fe85516c95045b700ef9a2b83ae63f69adefd1",
+   "bytes": 889845
+  },
+  {
+   "path": "01_foundations/courses/CMU_15445_DatabaseSystems_Fall2025_en/24_24-distributed2_en.pdf",
+   "url": "https://15445.courses.cs.cmu.edu/fall2025/notes/24-distributed2.pdf",
+   "pages": 4,
+   "sha256": "e044db48a6555f6fd6b6ab9720f1aa9eaed9932099af1ce6f30cdf1d3d542d85",
+   "bytes": 433355
+  }
+ ],
+ "note": "24 个 PDF 全部 HTTP 200 且可解析，合计 131 页；文件链接取自官方索引页 https://15445.courses.cs.cmu.edu/fall2025/notes/（该页列出的全部匹配文件均已下载）"
+}

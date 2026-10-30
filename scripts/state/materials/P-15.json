@@ -1,0 +1,20 @@
+{
+ "status": "verified",
+ "set": "projects",
+ "title": "Docker ELK stack compose reference",
+ "files": [
+  {
+   "path": "09_systems_operations/projects/docker_elk_stack_en",
+   "url": "https://github.com/deviantony/docker-elk",
+   "commit": "4e7ea8b37eaee18fef8e42778c3e2f3356d751e1",
+   "files": 69,
+   "archive_sha256": "850f53330bfe3aa1764e5467719340269f591fb9cf8161abae967c023a35292e",
+   "bytes": 62398
+  }
+ ],
+ "commit": "4e7ea8b37eaee18fef8e42778c3e2f3356d751e1",
+ "license_files": [
+  "LICENSE"
+ ],
+ "note": "官方仓库快照 commit 4e7ea8b37eae：归档 zip 完整性通过，解压 69 个文件（0 个 notebook）；应有文件已见 ['README.md', 'docker-compose.yml']；许可证文件 ['LICENSE']；未发现 LFS 指针文件"
+}

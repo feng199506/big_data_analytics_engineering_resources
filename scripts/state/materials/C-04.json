@@ -1,0 +1,15 @@
+{
+ "status": "verified",
+ "set": "courses",
+ "title": "MIT 6.824 Distributed Systems (current offering notes and paper list)",
+ "files": [
+  {
+   "path": "01_foundations/courses/MIT_6824_DistributedSystems_html_en",
+   "url": "https://pdos.csail.mit.edu/6.5840/schedule.html",
+   "html_pages": 3,
+   "files": 5,
+   "bytes": 32262
+  }
+ ],
+ "note": "官方 HTML，3 个页面全部 HTTP 200 且正文 ≥ 400 字符；wget 离线保存（页面资源、链接改写），共 5 个文件；页面清单 PAGES_en.txt"
+}

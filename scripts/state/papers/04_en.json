@@ -1,0 +1,116 @@
+{
+ "url:https://www.vldb.org/pvldb/vol8/p1792-Akidau.pdf": {
+  "status": "ok",
+  "pdf": "https://www.vldb.org/pvldb/vol8/p1792-Akidau.pdf",
+  "source": "new",
+  "note": "通过：HTTP 200；%PDF 头；pypdf 可解析 12 页、64775 字符；标题匹配 1.00；第一作者姓氏已见；参考文献节已见",
+  "pages": 12,
+  "chars": 64775,
+  "sha256": "7eeb8be6b52f2a9d2eb509a8616f748831fb48fab59ef2f5e83fca7b374bea18",
+  "bytes": 365591,
+  "title_match": 1.0,
+  "author_found": true,
+  "refs": true,
+  "path": "04_stream_processing/papers/2015_Akidau_TheDataflowModel_en.pdf"
+ },
+ "url:https://www.vldb.org/pvldb/vol6/p1033-akidau.pdf": {
+  "status": "ok",
+  "pdf": "https://www.vldb.org/pvldb/vol6/p1033-akidau.pdf",
+  "source": "new",
+  "note": "通过：HTTP 200；%PDF 头；pypdf 可解析 12 页、62019 字符；标题匹配 1.00；第一作者姓氏已见；参考文献节已见",
+  "pages": 12,
+  "chars": 62019,
+  "sha256": "2131f6f8b7ec5ede35559ab1a68e8d3697c1a27edf1d381efd0f49b778da9159",
+  "bytes": 517756,
+  "title_match": 1.0,
+  "author_found": true,
+  "refs": true,
+  "path": "04_stream_processing/papers/2013_Akidau_MillWheel_en.pdf"
+ },
+ "url:https://www.vldb.org/pvldb/vol10/p1719-carbone.pdf": {
+  "status": "fail",
+  "pdf": "https://www.vldb.org/pvldb/vol10/p1719-carbone.pdf",
+  "source": "new",
+  "note": "无 %PDF- 文件头"
+ },
+ "url:https://people.csail.mit.edu/matei/papers/2018/sigmod_structured_streaming.pdf": {
+  "status": "fail",
+  "pdf": "https://people.csail.mit.edu/matei/papers/2018/sigmod_structured_streaming.pdf",
+  "source": "new",
+  "note": "下载失败：HTTP 404 "
+ },
+ "url:https://notes.stephenholiday.com/Kafka.pdf": {
+  "status": "ok",
+  "pdf": "https://notes.stephenholiday.com/Kafka.pdf",
+  "source": "new",
+  "note": "通过：HTTP 200；%PDF 头；pypdf 可解析 7 页、37979 字符；标题匹配 1.00；第一作者姓氏已见；参考文献节已见",
+  "pages": 7,
+  "chars": 37979,
+  "sha256": "4abdeba2503eb20a5d7ed84aa8e7680bcbe3088541712626315deae0b07c2821",
+  "bytes": 2253344,
+  "title_match": 1.0,
+  "author_found": true,
+  "refs": true,
+  "path": "04_stream_processing/papers/2011_Kreps_Kafka_en.pdf"
+ },
+ "url:http://sites.computer.org/debull/A15dec/p11.pdf": {
+  "status": "fail",
+  "pdf": "http://sites.computer.org/debull/A15dec/p11.pdf",
+  "source": "new",
+  "note": "下载失败：HTTP 404 "
+ },
+ "url:https://sigops.org/s/conferences/sosp/2013/papers/p439-murray.pdf": {
+  "status": "ok",
+  "pdf": "https://sigops.org/s/conferences/sosp/2013/papers/p439-murray.pdf",
+  "source": "new",
+  "note": "通过：HTTP 200；%PDF 头；pypdf 可解析 17 页、78838 字符；标题匹配 1.00；第一作者姓氏已见；参考文献节已见",
+  "pages": 17,
+  "chars": 78838,
+  "sha256": "e02e8142af76d5568893177c0ad6996684c209dd52ec2f7123458d675dbe5699",
+  "bytes": 279907,
+  "title_match": 1.0,
+  "author_found": true,
+  "refs": true,
+  "path": "04_stream_processing/papers/2013_Murray_Naiad_en.pdf"
+ },
+ "url:https://cs.stanford.edu/~matei/papers/2018/sigmod_structured_streaming.pdf": {
+  "status": "fail",
+  "pdf": "https://cs.stanford.edu/~matei/papers/2018/sigmod_structured_streaming.pdf",
+  "source": "new",
+  "note": "下载失败：HTTP None b\"URLError(ConnectionRefusedError(111, 'Connection refused'))\""
+ },
+ "url:https://vldb.org/pvldb/vol10/p1719-carbone.pdf": {
+  "status": "fail",
+  "pdf": "https://vldb.org/pvldb/vol10/p1719-carbone.pdf",
+  "source": "new",
+  "note": "无 %PDF- 文件头"
+ },
+ "url:https://sigops.org/s/conferences/sosp/2013/papers/p423-zaharia.pdf": {
+  "status": "ok",
+  "pdf": "https://sigops.org/s/conferences/sosp/2013/papers/p423-zaharia.pdf",
+  "source": "new",
+  "note": "通过：HTTP 200；%PDF 头；pypdf 可解析 16 页、77834 字符；标题匹配 1.00；第一作者姓氏已见；参考文献节已见",
+  "pages": 16,
+  "chars": 77834,
+  "sha256": "4d9b3521d429259e7d9e95217f682022cab5d9271bd9813eaa887fd496ef76e7",
+  "bytes": 862196,
+  "title_match": 1.0,
+  "author_found": true,
+  "refs": true,
+  "path": "04_stream_processing/papers/2013_Zaharia_DiscretizedStreams_en.pdf"
+ },
+ "url:https://www.vldb.org/pvldb/vol10/p1634-noghabi.pdf": {
+  "status": "ok",
+  "pdf": "https://www.vldb.org/pvldb/vol10/p1634-noghabi.pdf",
+  "source": "new",
+  "note": "通过：HTTP 200；%PDF 头；pypdf 可解析 12 页、77007 字符；标题匹配 1.00；第一作者姓氏已见；参考文献节已见",
+  "pages": 12,
+  "chars": 77007,
+  "sha256": "50459aba115484068c1b7d3059cfc49c26231627dcacab419e137b4f434a32ac",
+  "bytes": 847260,
+  "title_match": 1.0,
+  "author_found": true,
+  "refs": true,
+  "path": "04_stream_processing/papers/2017_Noghabi_Samza_en.pdf"
+ }
+}

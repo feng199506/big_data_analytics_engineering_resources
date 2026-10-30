@@ -1,0 +1,20 @@
+{
+ "status": "verified",
+ "set": "projects",
+ "title": "dbt Jaffle Shop on DuckDB (local ELT)",
+ "files": [
+  {
+   "path": "05_ingestion_orchestration/projects/jaffle_shop_duckdb_en",
+   "url": "https://github.com/dbt-labs/jaffle_shop_duckdb",
+   "commit": "20cc904370818ceab08cf19f8fd196e9e81def88",
+   "files": 37,
+   "archive_sha256": "02a40afb17905ed90f33e0cc0926df694145b8ca35096280f7aae759358bb906",
+   "bytes": 505341
+  }
+ ],
+ "commit": "20cc904370818ceab08cf19f8fd196e9e81def88",
+ "license_files": [
+  "LICENSE"
+ ],
+ "note": "官方仓库快照 commit 20cc90437081：归档 zip 完整性通过，解压 37 个文件（0 个 notebook）；应有文件已见 ['README.md']；许可证文件 ['LICENSE']；未发现 LFS 指针文件"
+}

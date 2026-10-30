@@ -1,0 +1,6 @@
+{
+ "status": "failed",
+ "set": "software",
+ "note": "7 个页面正文 < 400 字符，如 https://duckdb.org/docs/",
+ "title": "DuckDB official documentation subset (SQL, Parquet, Python, performance)"
+}

@@ -1,0 +1,20 @@
+{
+ "status": "verified",
+ "set": "projects",
+ "title": "Dask official tutorial",
+ "files": [
+  {
+   "path": "06_analytics_statistics/projects/dask_tutorial_en",
+   "url": "https://github.com/dask/dask-tutorial",
+   "commit": "419c087cad53b749cc9f6ad63b42b4da41c0a69e",
+   "files": 28,
+   "archive_sha256": "405d8d6e61275502d4284e18df3224d387a54e83378863bc69db34fb130b7340",
+   "bytes": 300325
+  }
+ ],
+ "commit": "419c087cad53b749cc9f6ad63b42b4da41c0a69e",
+ "license_files": [
+  "LICENSE.txt"
+ ],
+ "note": "官方仓库快照 commit 419c087cad53：归档 zip 完整性通过，解压 28 个文件（6 个 notebook）；应有文件已见 ['README.md']；许可证文件 ['LICENSE.txt']；未发现 LFS 指针文件"
+}

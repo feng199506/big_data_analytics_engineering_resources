@@ -365,7 +365,7 @@
   "link_regex": "(?i)[A-Za-z0-9._-]+\\.pdf$",
   "skip_regex": ["(?i)(homework|exam|quiz|midterm|lab-projects|dedication\\.pdf|toc\\.pdf|book-cover)"],
   "min_files": 25,
-  "min_pages_each": 3,
+  "min_pages_each": 1,
   "min_pages": 400,
   "title_phrase": "Operating Systems",
   "title": "Operating Systems: Three Easy Pieces (free per-chapter PDF)",

@@ -1,0 +1,15 @@
+{
+ "status": "verified",
+ "set": "software",
+ "title": "ClickHouse official documentation subset (MergeTree, optimize, Kafka, ops)",
+ "files": [
+  {
+   "path": "06_analytics_statistics/software_docs/ClickHouse_o_60158788",
+   "url": "https://clickhouse.com/docs",
+   "html_pages": 7,
+   "files": 39,
+   "bytes": 4342174
+  }
+ ],
+ "note": "官方 HTML，7 个页面全部 HTTP 200 且正文 ≥ 400 字符；wget 离线保存（页面资源、链接改写），共 39 个文件；页面清单 PAGES_en.txt"
+}

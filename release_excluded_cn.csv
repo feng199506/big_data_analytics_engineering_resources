@@ -1,0 +1,2 @@
+﻿编号,资料类型,标题,作者,本地路径,许可依据,原始来源,下载地址,未发布原因
+B-14,教科书/专著/参考书,Operating Systems: Three Easy Pieces (free per-chapter PDF),Remzi H. Arpaci-Dusseau; Andrea C. Arpaci-Dusseau,01_foundations/books/ArpaciDusseau_OSTEP_en（64 个分章 PDF）,"作者站点免费阅读；纸质版另售；官方页面原文：“If you are using these free chapters, please just link to them directly (instead of making a copy locally)”",https://pages.cs.wisc.edu/~remzi/OSTEP/,https://pages.cs.wisc.edu/~remzi/OSTEP/,作者请使用者直接链接官方页面、不要自留副本，按保守原则不随 Release 再分发；本地原件保留，可从官方页面免费逐章下载

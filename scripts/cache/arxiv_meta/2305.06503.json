@@ -1,0 +1,17 @@
+{
+ "id": "2305.06503",
+ "title": "Cubic vertices of minimal bicritical graphs",
+ "authors": [
+  "Jing Guo",
+  "Hailun Wu",
+  "Heping Zhang"
+ ],
+ "v1_date": "2023-05-11",
+ "latest_version": 2,
+ "latest_date": "2024-10-13",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "9 pages, 2 figures",
+ "abstract": "A graph $G$ with four or more vertices is called bicritical if the removal of any pair of distinct vertices of $G$ results in a graph with a perfect matching. A bicritical graph is minimal if the deletion of each edge results in a non-bicritical graph. Recently, Y. Zhang et al. and F. Lin et al. respectively showed that bicritical graphs without removable edges and minimal bricks have at least four cubic vertices. In this note, we show that minimal bicritical graphs also have at least four cubic vertices, so confirming O. Favaron and M. Shi's conjecture in the case of $k=2$ on minimal $k$-factor critical graphs.",
+ "primary": "math.CO"
+}
